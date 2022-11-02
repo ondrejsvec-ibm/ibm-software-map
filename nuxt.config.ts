@@ -2,6 +2,10 @@ import { defineNuxtConfig } from 'nuxt'
 
 // https://v3.nuxtjs.org/api/configuration/nuxt.config
 export default defineNuxtConfig({
+  target: 'static',
+  router: {
+    base: "/ibm-software-map/"
+  },
   app: {
     baseURL: process.env.VUE_APP_CONTEXT_PATH,
     head: {
