@@ -1,0 +1,14 @@
+yarn.lock
+dist
+.vscode
+.DS_Store
+tools
+.env.local
+node_modules
+*.log*
+.nuxt
+.nitro
+.cache
+.output
+.env
+dist

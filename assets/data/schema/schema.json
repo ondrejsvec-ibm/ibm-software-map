@@ -1,0 +1,64 @@
+{
+  "$id": "software-map-schema",
+  "description": "A representation of the software stack for particular area",
+  "type": "object",
+  "required": ["products", "area"],
+  "properties": {
+    "area": {
+      "type": "string",
+      "enum": [
+        "automation",
+        "data_ai",
+        "security",
+        "ai_apps",
+        "red_hat",
+        "storage",
+        "redhat",
+        "transaction_processing",
+        "ibm_z"
+      ]
+    },
+    "products": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "description": "A representation of the IBM Software definition",
+        "required": ["productName", "productDescription", "productAbreviation", "cloudPak", "links"],
+        "properties": {
+          "productName": {
+            "type": "string"
+          },
+          "productId": {
+            "type": "string"
+          },
+          "productAbreviation": {
+            "type": "string"
+          },
+          "productDescription": {
+            "type": "string"
+          },
+          "cloudPak": {
+            "type": "string",
+            "enum": [
+              "not_cloud_pak",
+              "cp4ba",
+              "cp4i",
+              "cp4d",
+              "cp4na",
+              "cp4aiops",
+              "cp4s"
+            ]
+          },
+          "links": {
+            "type": "object",
+            "properties": {
+              "docs": {
+                "type": "string"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

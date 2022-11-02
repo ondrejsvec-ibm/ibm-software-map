@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono:300,400,500,700&subset=latin-ext');
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+
+@import './config/variable.scss';
+
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0
+}
+button:focus {
+  outline: 0;
+}
+
+#__nuxt {
+  font-family: 'Roboto Mono', monospace;
+  background: #3B4252;
+  min-height: 100vh;
+  color: #fff;
+}
+
+.loading {
+  display: flex;
+  height: 88vh;
+  justify-content: center;
+  align-items: center;
+  animation: color-change 20s infinite;
+  font-size: 3em;
+  font-weight: bold;
+  font-family: 'Indie Flower', cursive;
+}
+
+@keyframes color-change {
+  0% { color: $main-filter-blue;}
+  10% { color: $main-filter-yellowgreen; }
+  20% { color: $main-filter-orange; }
+  30% { color: $main-filter-aqua; }
+  40% { color: $main-filter-aquamarine; }
+  50% { color: $main-filter-yellow; }
+  60% { color: $main-filter-pink; }
+  70% { color: $filter; }
+  80% { color: $filter; }
+  90% { color: $main-filter-green; }
+  100% { color: $main-filter-blue; }
+}

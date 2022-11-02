@@ -1,0 +1,147 @@
+// General
+.color-not_cloud_pak, .color-ibm_cloud {
+  color: $main-filter-blue;
+}
+.color-cp4d, .color-aws {
+  color: $main-filter-yellowgreen;
+}
+.color-cp4i, .color-azure {
+  color: $main-filter-orange;
+}
+.color-cp4ba, .color-gcp {
+  color: $main-filter-aqua;
+}
+.color-cp4na {
+  color: $main-filter-aquamarine;
+}
+.color-cloud_pak {
+  color: $main-filter-yellow;
+}
+.color-cp4s {
+  color: $main-filter-pink;
+}
+.color-filter {
+  color: $filter;
+}
+.color-cp4aiops {
+  color: $main-filter-green;
+}
+
+// Table colours
+.elementinfo > .title > .abreviation {
+  &.color-not_cloud_pak, &.color-ibm_cloud {
+    border-bottom: 0.4rem solid $main-filter-blue;
+  }
+  &.color-cp4d, &.color-aws {
+    border-bottom: 0.4rem solid $main-filter-yellowgreen;
+  }
+  &.color-cp4i, &.color-azure {
+    border-bottom: 0.4rem solid $main-filter-orange;
+  }
+  &.color-cp4ba, &.color-gcp {
+    border-bottom: 0.4rem solid $main-filter-aqua;
+  }
+  &.color-cp4na {
+    border-bottom: 0.4rem solid $main-filter-aquamarine;
+  }
+  &.color-cloud_pak {
+    border-bottom: 0.4rem solid $main-filter-yellow;
+  }
+  &.color-cp4s {
+    border-bottom: 0.4rem solid $main-filter-pink;
+  }
+  &.color-filter {
+    border-bottom: 0.4rem solid $filter;
+  }
+  &.color-cp4aiops {
+    border-bottom: 0.4rem solid $main-filter-green;
+  }
+}
+
+.periodictable > .item {
+  &.color-not_cloud_pak, &.color-ibm_cloud {
+    background: rgba($main-filter-blue, 0.7);
+  }
+  &.color-cp4d, &.color-aws {
+    background: rgba($main-filter-yellowgreen, 0.7);
+  }
+  &.color-cp4i, &.color-azure {
+    background: rgba($main-filter-orange, 0.7);
+  }
+  &.color-cp4ba, &.color-gcp {
+    background: rgba($main-filter-aqua, 0.7);
+  }
+  &.color-cp4na {
+    background: rgba($main-filter-aquamarine, 0.7);
+  }
+  &.color-cloud_pak {
+    background: rgba($main-filter-yellow, 0.7);
+  }
+  &.color-cp4s {
+    background: rgba($main-filter-pink, 0.7);
+  }
+  &.color-filter {
+    background: rgba($filter, 0.7);
+  }
+  &.color-cp4aiops {
+    background: rgba($main-filter-green, 0.7);
+  }
+}
+
+// Sidebar Colours
+.description > .item {
+  &.color-not_cloud_pak, &.color-ibm_cloud {
+    background-color: rgba($main-filter-blue, 0.7);
+    border-radius: 0.25rem;
+    border-style: hidden;
+    color: white;
+  }
+  &.color-cp4d, &.color-aws {
+    background-color: rgba($main-filter-yellowgreen, 0.7);
+    border-radius: 0.25rem;
+    border-style: hidden;
+    color: white;
+  }
+  &.color-cp4i, &.color-azure {
+    background-color: rgba($main-filter-orange, 0.7);
+    border-radius: 0.25rem;
+    border-style: hidden;
+    color: white;
+  }
+  &.color-cp4ba, &.color-gcp {
+    background-color: rgba($main-filter-aqua, 0.7);
+    border-radius: 0.25rem;
+    border-style: hidden;
+    color: white;
+  }
+  &.color-cp4na {
+    background-color: rgba($main-filter-aquamarine, 0.7);
+    border-radius: 0.25rem;
+    border-style: hidden;
+    color: white;
+  }
+  &.color-cloud_pak {
+    background-color: rgba($main-filter-yellow, 0.7);
+    border-radius: 0.25rem;
+    border-style: hidden;
+    color: white;
+  }
+  &.color-cp4s {
+    background-color: rgba($main-filter-pink, 0.7);
+    border-radius: 0.25rem;
+    border-style: hidden;
+    color: white;
+  }
+  &.color-filter {
+    background-color: rgba($filter-name, 0.7);
+    border-radius: 0.25rem;
+    border-style: hidden;
+    color: white;
+  }
+  &.color-cp4aiops {
+    background-color: rgba($main-filter-green, 0.7);
+    border-radius: 0.25rem;
+    border-style: hidden;
+    color: white;
+  }
+}

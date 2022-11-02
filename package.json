@@ -1,0 +1,33 @@
+{
+  "name": "ibm-sw-product-table",
+  "version": "0.1.0",
+  "homepage": "https://pages.github.com/ondrejsvec-ibm/ibm-software-map",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev --port 8080",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "@css-render/plugin-bem": "^0.15.11",
+    "@css-render/vue3-ssr": "^0.15.11",
+    "@intlify/nuxt3": "^0.2.3",
+    "@vicons/carbon": "^0.12.0",
+    "naive-ui": "^2.32.2",
+    "nuxt": "3.0.0-rc.8",
+    "vfonts": "^0.0.3"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.6.9",
+    "@fortawesome/fontawesome-svg-core": "^6.1.2",
+    "@fortawesome/free-solid-svg-icons": "^6.1.2",
+    "@fortawesome/vue-fontawesome": "^3.0.1",
+    "@pinia/nuxt": "^0.4.1",
+    "@vue/apollo-composable": "^4.0.0-alpha.19",
+    "graphql": "^16.6.0",
+    "pinia": "^2.0.20",
+    "sass": "^1.54.5",
+    "vue-apollo": "^3.1.0"
+  }
+}

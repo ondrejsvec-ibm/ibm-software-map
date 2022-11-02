@@ -1,0 +1,28 @@
+[
+  {
+    "elementType": "swTable",
+    "filters": {
+      "cloudPak": {
+        "match": "equals",
+        "values": [
+          "cloud_pak",
+          "not_cloud_pak",
+          "cp4d",
+          "cp4i",
+          "cp4ba",
+          "cp4na",
+          "cp4s",
+          "cp4aiops"
+        ]
+      },
+      "otherFilters": {
+        "match": "sub_filters",
+        "values": [
+        ]
+      },
+      "search": {
+        "match": "search"
+      }
+    }
+  }
+]

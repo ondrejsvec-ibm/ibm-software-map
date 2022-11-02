@@ -1,0 +1,43 @@
+{
+  "interface": {
+    "name": "Product Table",
+    "cloudPakFilters": "Cloud Pak Filters",
+    "loading": "Loading Product Table",
+    "otherFiltersFilters": "Other Filters",
+    "disclaimer": "Disclaimer: Community maintained data, some data might be incorrect.",
+    "language": {
+      "en": "English"
+    }
+  },
+  "about": {
+    "title": "About IBM SW Map",
+    "primaryText": "Repository with the IBM software displayed in a periodic table for easier visualisation of the IBM portfolio. All the data is currently sourced by the community effort and therefore there might be discrepancies. In case you find one, please create the issue in the underlying github repository so it can be corrected.",
+    "salesPlays": "The Sales Plays information page",
+    "technologyDecisionPoints": "The Technology Decision Points information page",
+    "productPages": "IBM Product Pages"
+  },
+  "element": {
+    "cloudPak": "Cloud Pak",
+    "productName": "Product Name",
+    "productDescription": "Product Description",
+    "productAbreviation": "Product Abbreviation",
+    "links": {
+      "name": "Links",
+      "docs": "Link to Documentation"
+    }
+  },
+  "cloudPakNames": {
+    "types": "Types",
+    "cloud_pak": "Cloud Pak",
+    "cp4d": "Cloud Pak for Data",
+    "cp4i": "Cloud Pak for Integration",
+    "cp4ba": "Cloud Pak for Business Automation",
+    "cp4na": "Cloud Pak for Network Automation",
+    "not_cloud_pak": "Non Cloud Pak",
+    "cp4s": "Cloud Pak for Security",
+    "cp4aiops": "Cloud Pak for AI Ops"
+  },
+  "otherFiltersNames": {
+  }
+
+}
