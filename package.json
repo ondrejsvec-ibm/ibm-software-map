@@ -1,7 +1,7 @@
 {
   "name": "ibm-sw-product-table",
   "version": "0.1.0",
-  "homepage": "https://pages.github.com/ondrejsvec-ibm/ibm-software-map",
+  "homepage": "https://ondrejsvec-ibm.github.io/ibm-software-map/",
   "private": true,
   "scripts": {
     "build": "nuxt build",
