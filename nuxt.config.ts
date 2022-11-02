@@ -7,11 +7,11 @@ export default defineNuxtConfig({
     base: "/ibm-software-map/"
   },
   app: {
-    baseURL: process.env.VUE_APP_CONTEXT_PATH,
+    baseURL: "/ibm-software-map/",
     head: {
       title: 'Product Table',
       link: [
-        {rel: 'icon', type: "image/x-icon", href: process.env.VUE_APP_CONTEXT_PATH+'/favicon.ico'}
+        {rel: 'icon', type: "image/x-icon", href: '/favicon.ico'}
       ]
     },
   },
