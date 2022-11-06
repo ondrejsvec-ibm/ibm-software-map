@@ -1,1 +1,91 @@
-{"$schema": "../schema/schema.json", "area": "ibm_z", "products": [{"productName": "IBM Z Virtual Test Platform", "productAbreviation": "ZVTP", "productDescription": "Use VTP to shift-left your application integration testing and understand the impact of a change before it is deployed. VTP lets you test an entire transaction, running a code change in the context of other programs that are part of the transaction in the build phase.", "cloudPak": "not_cloud_pak", "links": {"docs": "https://www.ibm.com/docs/en/zvtp"}}, {"productName": "IBM Z Anomaly Analytics", "productAbreviation": "ZAA", "productDescription": "IBM Z\u00ae Anomaly Analytics with Watson\u2122 provides intelligent anomaly detection to proactively discern operational issues in your enterprise environment. It uses historical IBM Z metric and log data to build a model of normal operational behavior. Real-time data is then scored against the model to detect, and alert IT operations of, anomalous behavior.", "cloudPak": "not_cloud_pak", "links": {"docs": "https://www.ibm.com/docs/en/z-anomaly-analytics/5.1.0"}}, {"productName": "IBM Z Performance and Capacity Analytics", "productAbreviation": "ZPCA", "productDescription": "IBM Z Decision Support for Capacity Planning delivers a simple, out-of-the-box Capacity Planning solution based on performance data curated in near real time.", "cloudPak": "not_cloud_pak", "links": {"docs": "https://www.ibm.com/docs/en/zp-and-ca"}}, {"productName": "IBM Z Application Performance Management Connect", "productAbreviation": "ZAPMC", "productDescription": "IBM Z Application Performance Management Connect provides transaction tracking information from z/OS subsystems to APM solutions.", "cloudPak": "not_cloud_pak", "links": {"docs": "https://www.ibm.com/docs/en/zapmc"}}, {"productName": "IBM Db2 DevOps Experience for z/OS", "productAbreviation": "DDEFZ", "productDescription": "IBM Z Application Performance Management Connect provides transaction tracking information from z/OS subsystems to APM solutions.", "cloudPak": "not_cloud_pak", "links": {"docs": "https://www.ibm.com/docs/en/ddefz"}}, {"productName": "IBM z/OS Workload Interaction Navigator", "productAbreviation": "ZWIN", "productDescription": "Software that accesses user data in tabular format in memory at high speeds with low overhead.", "cloudPak": "not_cloud_pak", "links": {"docs": "https://www.ibm.com/docs/en/zwin"}}, {"productName": "Application Performance Analyzer for z/OS", "productAbreviation": "APA", "productDescription": "Measure, report and maximize performance of systems and applications.", "cloudPak": "not_cloud_pak", "links": {"docs": "https://www.ibm.com/docs/en/adfz/apafz"}}]}
+{
+    "$schema": "../schema/schema.json",
+    "area": "ibm_z",
+    "products": [
+        {
+            "productName": "IBM Z Virtual Test Platform",
+            "productAbreviation": "ZVTP",
+            "productDescription": "Use VTP to shift-left your application integration testing and understand the impact of a change before it is deployed. VTP lets you test an entire transaction, running a code change in the context of other programs that are part of the transaction in the build phase.",
+            "cloudPak": "not_cloud_pak",
+            "productId": "5696VTP",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/zvtp",
+                "info": "https://www.ibm.com/products/z-virtual-test-platform",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5696VTP"
+            }
+        },
+        {
+            "productName": "IBM Z Anomaly Analytics",
+            "productAbreviation": "ZAA",
+            "productDescription": "IBM Z\u00ae Anomaly Analytics with Watson\u2122 provides intelligent anomaly detection to proactively discern operational issues in your enterprise environment. It uses historical IBM Z metric and log data to build a model of normal operational behavior. Real-time data is then scored against the model to detect, and alert IT operations of, anomalous behavior.",
+            "cloudPak": "not_cloud_pak",
+            "productId": "5698ANA",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/z-anomaly-analytics/5.1.0",
+                "info": "https://www.ibm.com/products/z-anomaly-analytics",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5698ANA"
+            }
+        },
+        {
+            "productName": "IBM Z Performance and Capacity Analytics",
+            "productAbreviation": "ZPCA",
+            "productDescription": "IBM Z Decision Support for Capacity Planning delivers a simple, out-of-the-box Capacity Planning solution based on performance data curated in near real time.",
+            "cloudPak": "not_cloud_pak",
+            "productId": "5698AS3",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/zp-and-ca",
+                "info": "https://www.ibm.com/products/z-performance-and-capacity-analytics",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5698AS3"
+                
+            }
+        },
+        {
+            "productName": "IBM Z Application Performance Management Connect",
+            "productAbreviation": "ZAPMC",
+            "productDescription": "IBM Z Application Performance Management Connect provides transaction tracking information from z/OS subsystems to APM solutions.",
+            "cloudPak": "not_cloud_pak",
+            "productId": "5698ABL",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/zapmc",
+                "info": "https://www.ibm.com/products/z-app-performance-management-connect",
+                "trial": "https://early-access.ibm.com/software/support/trial/cst/welcomepage.wss?siteId=935&tabId=2214&w=1",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5698ABL"
+            }
+        },
+        {
+            "productName": "IBM Db2 DevOps Experience for z/OS",
+            "productAbreviation": "DDEFZ",
+            "productDescription": "IBM Z Application Performance Management Connect provides transaction tracking information from z/OS subsystems to APM solutions.",
+            "cloudPak": "not_cloud_pak",
+            "productId": "5698DEX",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/ddefz",
+                "info": "https://www.ibm.com/products/db2-devops-experience",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5698DEX"
+            }
+        },
+        {
+            "productName": "IBM z/OS Workload Interaction Navigator",
+            "productAbreviation": "ZWIN",
+            "productDescription": "Software that accesses user data in tabular format in memory at high speeds with low overhead.",
+            "cloudPak": "not_cloud_pak",
+            "productId": "5698WKN",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/zwin",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5698WKN"
+            }
+        },
+        {
+            "productName": "Application Performance Analyzer for z/OS",
+            "productAbreviation": "APA",
+            "productDescription": "Measure, report and maximize performance of systems and applications.",
+            "cloudPak": "not_cloud_pak",
+            "productId": "5655Q49",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/adfz/apafz",
+                "info": "https://www.ibm.com/products/application-performance-analyzer",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5655Q49"
+            }
+        }
+    ]
+}

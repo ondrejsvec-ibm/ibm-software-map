@@ -1,1 +1,186 @@
-{"$schema": "../schema/schema.json", "area": "ai_apps", "products": [{"productName": "IBM Sterling Connect:Direct", "productAbreviation": "C:D", "productDescription": "The reliable solution for secure, point-to-point file transfers, optimized for high-volume, assured data delivery within and between enterprises, & provides script-based automation, scheduling and alert notifications for 24x7 unattended operations.", "cloudPak": "not_cloud_pak", "links": {"docs": "https://www.ibm.com/docs/en/connect-direct"}}, {"productName": "IBM Sterling B2B Integrator", "productAbreviation": "B2B", "productDescription": "Build, deploy and manage integrated B2B processes across diverse business partner communities. Orchestrate processes, high-volume message exchange, complex routing, translation, and flexible interaction with internal systems and external business partners.", "cloudPak": "not_cloud_pak", "links": {"docs": "https://www.ibm.com/docs/en/b2b-integrator"}}, {"productName": "IBM Sterling Order Management", "productAbreviation": "SOM", "productDescription": "With IBM Sterling\u00ae Order Management software, you can orchestrate your entire fulfillment network with powerful core capabilities and next-level options", "cloudPak": "not_cloud_pak", "links": {"docs": "https://www.ibm.com/docs/en/order-management-sw"}}, {"productName": "IBM Maximo Asset Management", "productAbreviation": "MAM", "productDescription": "Learn how to increase your asset availability, lower costs and reduce the risk of equipment failure through the use of AI, analytics and insights from IoT sensors.", "cloudPak": "not_cloud_pak", "links": {"docs": "https://www.ibm.com/docs/en/mam"}}, {"productName": "IBM Maximo Application Suite", "productAbreviation": "MAS", "productDescription": "Maximo Application Suite is a collection of managed applications, add-ons, and third-party add-ons to help you build an asset management solution for your enterprise needs.", "cloudPak": "not_cloud_pak", "links": {"docs": "https://www.ibm.com/docs/en/mas"}}, {"productName": "IBM Maximo Visual Inspection", "productAbreviation": "MVI", "productDescription": "Learn how you can use IBM Maximo Visual Inspection Mobile to amplify your QA with computer vision on iOS and quickly discover defects on your production line.", "cloudPak": "not_cloud_pak", "links": {"docs": "https://www.ibm.com/docs/en/maximo-vi"}}, {"productName": "IBM TRIRIGA Application Platform", "productAbreviation": "TAP", "productDescription": "IBM TRIRIGA gives you a suite of capabilities, including dynamic space planning, indoor mapping and an AI assistant. You can also streamline leases, reduce the costs of capital projects and deliver greater value to the bottom line.", "cloudPak": "not_cloud_pak", "links": {"docs": "https://www.ibm.com/docs/en/tap"}}, {"productName": "IBM TRIRIGA Application Suite Managed Service", "productAbreviation": "TAS-MS", "productDescription": "Provides IBM managed provisioning, installation, configuration, operational support, security, maintenance, and administration of TRIRIGA Application Suite for customers on the IBM Cloud platform", "cloudPak": "not_cloud_pak", "links": {"docs": "https://www.ibm.com/support/pages/node/6471265"}}, {"productName": "IBM Engineering Lifecycle Management", "productAbreviation": "ELM", "productDescription": "IBM Engineering Lifecycle Management helps you manage requirements, quality and changes, and improve project planning and tracking.", "cloudPak": "not_cloud_pak", "links": {"docs": "https://www.ibm.com/docs/en/elm"}}, {"productName": "IBM Environmental Intelligence Suite", "productAbreviation": "EIS", "productDescription": "Use the IBM Environmental Intelligence Suite to plan for and respond to critical weather events with advanced analytics to ensure business continuity.", "cloudPak": "not_cloud_pak", "links": {"docs": "https://github.com/IBM/Environmental-Intelligence-Suite"}}, {"productName": "IBM Blockchain Transparent Supply", "productAbreviation": "BTS", "productDescription": "Build your own blockchain ecosystem to share data with your supply chain partners.", "cloudPak": "not_cloud_pak", "links": {"docs": "https://www.ibm.com/docs/en/transparent-supply"}}, {"productName": "IBM Supply Chain Control Tower", "productAbreviation": "SCCT", "productDescription": "Orchestrate your end-to-end supply chain with AI-powered visibility and actionable workflows.", "cloudPak": "not_cloud_pak", "links": {"docs": "https://www.ibm.com/docs/en/scis?topic=overview-control-tower"}}, {"productName": "IBM Food Trust", "productAbreviation": "FDTRST", "productDescription": "A modular solution built on blockchain, benefiting all network participants with a safer, smarter and more sustainable food ecosystem", "cloudPak": "not_cloud_pak", "links": {"docs": "https://www.ibm.com/docs/en/food-trust"}}, {"productName": "Envizi", "productAbreviation": "ESPM", "productDescription": "Leading data and analytics software provider for  environmental performance management, to help clients accelerate  sustainability initiatives and achieve environmental goals", "cloudPak": "not_cloud_pak", "links": {}}, {"productName": "IBM Sterling Transformation Extender", "productAbreviation": "ITX", "productDescription": "IBM Sterling Transformation Extender automates complex transformation and validation of data between various formats and standards.", "cloudPak": "not_cloud_pak", "links": {"docs": "https://www.ibm.com/docs/en/ste"}}, {"productName": "IBM Sterling Transformation Extender Advanced", "productAbreviation": "ITXa", "productDescription": "IBM Transformation Extender Advanced help you address advanced data transformation complexity associated with healthcare and financial industries.", "cloudPak": "not_cloud_pak", "links": {"docs": "https://www.ibm.com/docs/en/stea"}}]}
+{
+    "$schema": "../schema/schema.json",
+    "area": "ai_apps",
+    "products": [
+        {
+            "productName": "IBM Sterling Connect:Direct",
+            "productAbreviation": "C:D",
+            "productDescription": "The reliable solution for secure, point-to-point file transfers, optimized for high-volume, assured data delivery within and between enterprises, & provides script-based automation, scheduling and alert notifications for 24x7 unattended operations.",
+            "cloudPak": "not_cloud_pak",
+            "productId": "5725C99",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/connect-direct",
+                "info": "https://www.ibm.com/products/connect-direct",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5725C99"
+            }
+        },
+        {
+            "productName": "IBM Sterling B2B Integrator",
+            "productAbreviation": "B2B",
+            "productDescription": "Build, deploy and manage integrated B2B processes across diverse business partner communities. Orchestrate processes, high-volume message exchange, complex routing, translation, and flexible interaction with internal systems and external business partners.",
+            "cloudPak": "not_cloud_pak",
+            "productId": "5725D06",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/b2b-integrator",
+                "info": "https://www.ibm.com/products/b2b-integrator",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5725D06"
+            }
+        },
+        {
+            "productName": "IBM Sterling Order Management",
+            "productAbreviation": "SOM",
+            "productDescription": "With IBM Sterling\u00ae Order Management software, you can orchestrate your entire fulfillment network with powerful core capabilities and next-level options",
+            "cloudPak": "not_cloud_pak",
+            "productId": "5725D10",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/order-management-sw",
+                "info": "https://www.ibm.com/products/order-management",
+                "pricing":"https://www.ibm.com/products/order-management/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5725D10"
+            }
+        },
+        {
+            "productName": "IBM Maximo Asset Management",
+            "productAbreviation": "MAM",
+            "productDescription": "Learn how to increase your asset availability, lower costs and reduce the risk of equipment failure through the use of AI, analytics and insights from IoT sensors.",
+            "cloudPak": "not_cloud_pak",
+            "productId": "5724U18",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/mam",
+                "info": "https://www.ibm.com/products/maximo/asset-management",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5724U18"
+            }
+        },
+        {
+            "productName": "IBM Maximo Application Suite",
+            "productAbreviation": "MAS",
+            "productDescription": "Maximo Application Suite is a collection of managed applications, add-ons, and third-party add-ons to help you build an asset management solution for your enterprise needs.",
+            "cloudPak": "not_cloud_pak",
+            "productId": "5737M66",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/mas",
+                "info": "https://www.ibm.com/products/maximo",
+                "pricing":"https://www.ibm.com/products/maximo/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737M66"
+            }
+        },
+        {
+            "productName": "IBM Maximo Visual Inspection Mobile",
+            "productAbreviation": "MVIM",
+            "productDescription": "Learn how you can use IBM Maximo Visual Inspection Mobile to amplify your QA with computer vision on iOS and quickly discover defects on your production line.",
+            "cloudPak": "not_cloud_pak",
+            "productId": "5737L72",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/maximo-vi",
+                "info": "https://www.ibm.com/products/maximo-visual-inspection-mobile",
+                "pricing": "https://www.ibm.com/products/maximo-visual-inspection-mobile/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737L72"
+            }
+        },
+        {
+            "productName": "IBM TRIRIGA Application Platform",
+            "productAbreviation": "TAP",
+            "productDescription": "IBM TRIRIGA gives you a suite of capabilities, including dynamic space planning, indoor mapping and an AI assistant. You can also streamline leases, reduce the costs of capital projects and deliver greater value to the bottom line.",
+            "cloudPak": "not_cloud_pak",
+            "productId": "5725F26",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/tap",
+                "info": "https://www.ibm.com/products/tririga"
+            }
+        },
+        {
+            "productName": "IBM TRIRIGA Application Suite Managed Service",
+            "productAbreviation": "TAS-MS",
+            "productDescription": "Provides IBM managed provisioning, installation, configuration, operational support, security, maintenance, and administration of TRIRIGA Application Suite for customers on the IBM Cloud platform",
+            "cloudPak": "not_cloud_pak",
+            "productId": "5900AGJ",
+            "links": {
+                "docs": "https://www.ibm.com/support/pages/node/6471265",
+                "info": "https://www.ibm.com/products/tririga"
+            }
+        },
+        {
+            "productName": "IBM Engineering Lifecycle Management",
+            "productAbreviation": "ELM",
+            "productDescription": "IBM Engineering Lifecycle Management helps you manage requirements, quality and changes, and improve project planning and tracking.",
+            "cloudPak": "not_cloud_pak",
+            "productId": "5725F21",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/elm",
+                "info": "https://www.ibm.com/products/engineering-lifecycle-management",
+                "trial": "https://jazz.net/products/sandbox/?tag=sse&_ga=2.217118613.2099786862.1629299025-[…]Xp5J4hKY73zm2C25PW7z4GTeHcsltF1ajzUg6s62k1CQCaZt_W8aAtkIEALw_wcB",
+                "pricing": "https://www.ibm.com/products/engineering-lifecycle-management/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5725F21"
+            }
+        },
+        {
+            "productName": "IBM Environmental Intelligence Suite",
+            "productAbreviation": "EIS",
+            "productDescription": "Use the IBM Environmental Intelligence Suite to plan for and respond to critical weather events with advanced analytics to ensure business continuity.",
+            "cloudPak": "not_cloud_pak",
+            "productId": "5900AD5",
+            "links": {
+                "docs": "https://github.com/IBM/Environmental-Intelligence-Suite",
+                "info": "https://www.ibm.com/products/environmental-intelligence-suite",
+                "pricing": "https://www.ibm.com/products/environmental-intelligence-suite/pricing"
+            }
+        },
+        {
+            "productName": "IBM Blockchain Transparent Supply",
+            "productAbreviation": "BTS",
+            "productDescription": "Build your own blockchain ecosystem to share data with your supply chain partners.",
+            "cloudPak": "not_cloud_pak",
+            "productId": "5900AIQ",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/transparent-supply",
+                "info": "https://www.ibm.com/products/supply-chain-intelligence-suite/blockchain-transparent-supply",
+                "pricing": "https://www.ibm.com/products/supply-chain-intelligence-suite/pricing"
+            }
+        },
+        {
+            "productName": "IBM Supply Chain Control Tower",
+            "productAbreviation": "SCCT",
+            "productDescription": "Orchestrate your end-to-end supply chain with AI-powered visibility and actionable workflows.",
+            "cloudPak": "not_cloud_pak",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/scis?topic=overview-control-tower",
+                "info": "https://www.ibm.com/products/supply-chain-intelligence-suite/control-tower",
+                "pricing": "https://www.ibm.com/products/supply-chain-intelligence-suite/pricing"
+            }
+        },
+        {
+            "productName": "IBM Food Trust",
+            "productAbreviation": "FDTRST",
+            "productDescription": "A modular solution built on blockchain, benefiting all network participants with a safer, smarter and more sustainable food ecosystem",
+            "cloudPak": "not_cloud_pak",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/food-trust",
+                "info": "https://www.ibm.com/products/supply-chain-intelligence-suite/food-trust",
+                "pricing": "https://www.ibm.com/products/supply-chain-intelligence-suite/pricing"
+            }
+        },
+        {
+            "productName": "Envizi ESG Suite",
+            "productAbreviation": "ESPM",
+            "productDescription": "Leading data and analytics software provider for  environmental performance management, to help clients accelerate  sustainability initiatives and achieve environmental goals",
+            "cloudPak": "not_cloud_pak",
+            "productId": "5900API",
+            "links": {
+                "docs": "https://envizi.com/solutions/",
+                "info": "https://www.ibm.com/products/envizi"
+            }
+        },
+        {
+            "productName": "IBM Sterling Transformation Extender",
+            "productAbreviation": "ITX",
+            "productDescription": "IBM Sterling Transformation Extender automates complex transformation and validation of data between various formats and standards.",
+            "cloudPak": "not_cloud_pak",
+            "productId": "5724Q23",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/ste",
+                "info": "https://www.ibm.com/products/transformation-extender",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5655R99"
+            }
+        }
+    ]
+}

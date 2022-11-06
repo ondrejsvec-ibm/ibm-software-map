@@ -1,1 +1,283 @@
-{"$schema": "../schema/schema.json", "area": "automation", "products": [{"productName": "IBM Robotic Process Automation", "productAbreviation": "RPA", "productDescription": "A Robotic Process Automation (RPA) platform with a hybrid architecture, packaged with several components that together allow designing, creating, testing, and managing digital workers (bots).", "cloudPak": "cp4ba", "links": {"docs": "https://www.ibm.com/docs/en/rpa"}}, {"productName": "IBM Business Automation Workflow", "productAbreviation": "BAW", "productDescription": "IBM Business Automation Workflow helps you automate your digital workflows to increase productivity, efficiency and insights \u2014 on premises or on cloud.", "cloudPak": "cp4ba", "links": {"docs": "https://www.ibm.com/docs/en/baw"}}, {"productName": "IBM Operational Decision Manager", "productAbreviation": "ODM", "productDescription": "A comprehensive decision automation solution that helps discover, capture, analyze, automate and govern rules-based decisions on premises or on the cloud.", "cloudPak": "cp4ba", "links": {"docs": "https://www.ibm.com/docs/en/odm"}}, {"productName": "IBM FileNet Content Manager", "productAbreviation": "FNP8", "productDescription": "Manages any type of digital content, and combines document management with workflow and process capabilities to automate and drive content-related tasks and activities", "cloudPak": "cp4ba", "links": {"docs": "https://www.ibm.com/docs/en/filenet-p8-platform"}}, {"productName": "IBM Datacap", "productAbreviation": "DC", "productDescription": "Streamline the capture, recognition and classification of business documents and extract important information with IBM Datacap", "cloudPak": "cp4ba", "links": {"docs": "https://www.ibm.com/docs/en/datacap"}}, {"productName": "IBM Enterprise Records", "productAbreviation": "IER", "productDescription": "Manage electronic and physical records consistently and securely", "cloudPak": "cp4ba", "links": {"docs": "https://www.ibm.com/docs/en/enterprise-records"}}, {"productName": "IBM Content Collector for Email", "productAbreviation": "ICC4E", "productDescription": "IBM Content Collector for Email provides automated, policy-driven email archiving according to the policies you define.", "cloudPak": "cp4ba", "links": {"docs": "https://www.ibm.com/docs/en/content-collector"}}, {"productName": "IBM Content Collector for File Systems", "productAbreviation": "ICC4F", "productDescription": "IBM Content Collector for File Systems controls network file share documents through de-duplication, compression and dynamically executed retention functions.", "cloudPak": "cp4ba", "links": {"docs": "https://www.ibm.com/docs/en/content-collector"}}, {"productName": "IBM Content Collector for Microsoft Sharepoint", "productAbreviation": "ICC4S", "productDescription": "IBM Content Collector for Microsoft Sharepoint provides collection and archiving of SharePoint content based on policies you define.", "cloudPak": "cp4ba", "links": {"docs": "https://www.ibm.com/docs/en/content-collector"}}, {"productName": "IBM Content Collector for SAP Applications", "productAbreviation": "ICC4SAP", "productDescription": "IBM Content Collector for SAP Applications extends IBM's technology in value-based archiving techniques to SAP", "cloudPak": "cp4ba", "links": {"docs": "https://www.ibm.com/docs/en/ccfsa"}}, {"productName": "IBM Business Automation Content Analyzer", "productAbreviation": "BACA", "productDescription": "Use IBM Content Analyzer to digitize document data to create new business insights.", "cloudPak": "not_cloud_pak", "links": {"docs": "https://www.ibm.com/docs/en/bacaoc"}}, {"productName": "Cloud Pak for Business Automation", "productAbreviation": "CP4BA", "productDescription": "IBM Cloud Pak\u00ae for Business Automation offers design, build, run, and automation services to rapidly scale your programs and fully execute and operationalize an automation strategy.", "cloudPak": "cp4ba", "links": {"docs": "https://www.ibm.com/docs/en/cloud-paks/cp-biz-automation"}}, {"productName": "IBM Business Automation Insights", "productAbreviation": "BAI", "productDescription": "IBM Business Automation Insights processes event data so that you can derive insights into the performance of your business. You can use this data to drive automations and visualize the state of the indicators that matter most to you in near real-time.", "cloudPak": "cp4ba", "links": {"docs": "https://www.ibm.com/docs/en/cloud-paks/cp-biz-automation/21.0.x?topic=services-business-automation-insights"}}, {"productName": "IBM Automation Decision Services", "productAbreviation": "ADS", "productDescription": "Automation Decision Services provides a comprehensive environment for authoring, managing, and running decision services.", "cloudPak": "cp4ba", "links": {"docs": "https://www.ibm.com/docs/en/cloud-paks/cp-biz-automation/21.0.x?topic=software-automation-decision-services"}}, {"productName": "IBM Automation Document Processing", "productAbreviation": "ADP", "productDescription": "Automation Document Processing provides a tailored solution that reads your documents, extracts data, and refines and stores the data for use.", "cloudPak": "cp4ba", "links": {"docs": "https://www.ibm.com/docs/en/cloud-paks/cp-biz-automation/21.0.x?topic=software-automation-document-processing"}}, {"productName": "IBM Automation Workstream Services", "productAbreviation": "AWS", "productDescription": "Workstream Services provides a no-code solution for streamlining, automating, and accelerating activities in your daily work.", "cloudPak": "cp4ba", "links": {"docs": "https://www.ibm.com/docs/en/cloud-paks/cp-biz-automation/21.0.x?topic=software-automation-workstream-services"}}, {"productName": "IBM Workflow Authoring", "productAbreviation": "IWFA", "productDescription": "Author workflow projects (process app and case solutions) in Business Automation Studio and run them in the IBM Cloud Pak\u00ae for Business Automation environment. Create workflow automation services and publish them in Business Automation Studio for discovery and reuse.", "cloudPak": "cp4ba", "links": {"docs": "https://www.ibm.com/docs/en/cloud-paks/cp-biz-automation/21.0.x?topic=software-workflow-authoring"}}, {"productName": "IBM Process Mining", "productAbreviation": "IPM", "productDescription": "IBM Process Mining is a process mining solution that automatically discovers, constantly monitors, and optimizes the business processes. Process mining uses business system data to create and visualize an end-to-end process that includes all the process activities involved along with the various process paths. Businesses easily analyze the discovered process to gain actionable insights for process improvement.", "cloudPak": "cp4ba", "links": {"docs": "https://www.ibm.com/docs/en/cloud-paks/1.0?topic=foundation-process-mining"}}, {"productName": "IBM Workflow Process Service", "productAbreviation": "WPS", "productDescription": "Workflow Process Service is a new capability with a small footprint and resource usage for authoring and running workflows, which is offered only as part of IBM Cloud Pak\u00ae for Business Automation.", "cloudPak": "cp4ba", "links": {"docs": "https://www.ibm.com/docs/en/cloud-paks/cp-biz-automation/21.0.x?topic=software-workflow-process-service"}}, {"productName": "IBM Content Manager OnDemand", "productAbreviation": "CMOD", "productDescription": "Automate and optimize storage management, improve customer service and retention, and much more using IBM Content Manager OnDemand solution.", "cloudPak": "not_cloud_pak", "links": {"docs": "https://www.ibm.com/docs/en/cmofm"}}, {"productName": "IBM Content Manager Enterprise Edition", "productAbreviation": "CM8", "productDescription": "IBM Content Manager software manages content such as electronic office documents, images, audio, and video, while maintaining compliance requirements.", "cloudPak": "not_cloud_pak", "links": {"docs": "https://www.ibm.com/docs/en/content-manager"}}]}
+{
+    "$schema": "../schema/schema.json",
+    "area": "automation",
+    "products": [
+        {
+            "productName": "IBM Robotic Process Automation",
+            "productAbreviation": "RPA",
+            "productDescription": "A Robotic Process Automation (RPA) platform with a hybrid architecture, packaged with several components that together allow designing, creating, testing, and managing digital workers (bots).",
+            "productId": "5737N51",
+            "cloudPak": "cp4ba",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/rpa",
+                "info": "https://www.ibm.com/products/robotic-process-automation",
+                "trial": "https://www.ibm.com/account/reg/signup?formid=urx-46597",
+                "pricing": "https://www.ibm.com/products/robotic-process-automation/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737N51"
+            }
+        },
+        {
+            "productName": "IBM Business Automation Workflow",
+            "productAbreviation": "BAW",
+            "productDescription": "IBM Business Automation Workflow helps you automate your digital workflows to increase productivity, efficiency and insights \u2014 on premises or on cloud.",
+            "productId": "5737H41",
+            "cloudPak": "cp4ba",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/baw",
+                "info": "https://www.ibm.com/products/business-automation-workflow",
+                "trial": "https://www.ibm.com/account/reg/signup?formid=urx-32021",
+                "pricing": "https://www.ibm.com/products/business-automation-workflow/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737H41"
+            }
+        },
+        {
+            "productName": "IBM Operational Decision Manager",
+            "productAbreviation": "ODM",
+            "productDescription": "A comprehensive decision automation solution that helps discover, capture, analyze, automate and govern rules-based decisions on premises or on the cloud.",
+            "productId": "5725B69",
+            "cloudPak": "cp4ba",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/odm",
+                "info": "https://www.ibm.com/products/operational-decision-manager",
+                "trial": "https://www.ibm.com/account/reg/signup?formid=urx-33261",
+                "pricing": "https://www.ibm.com/products/operational-decision-manager/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5725B69"
+            }
+        },
+        {
+            "productName": "IBM FileNet Content Manager",
+            "productAbreviation": "FNP8",
+            "productDescription": "Manages any type of digital content, and combines document management with workflow and process capabilities to automate and drive content-related tasks and activities",
+            "productId": "5724R81",
+            "cloudPak": "cp4ba",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/filenet-p8-platform",
+                "info": "https://www.ibm.com/products/filenet-content-manager",
+                "trial": "https://register.automation.ibm.com/contentServices/trial/aws?source=aws",
+                "pricing": "https://www.ibm.com/products/cloud-pak-for-business-automation/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search/?q=5724R81"
+            }
+        },
+        {
+            "productName": "IBM Datacap",
+            "productAbreviation": "DC",
+            "productDescription": "Streamline the capture, recognition and classification of business documents and extract important information with IBM Datacap",
+            "productId": "5725C15",
+            "cloudPak": "cp4ba",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/datacap",
+                "info": "https://www.ibm.com/products/data-capture-and-imaging",
+                "pricing": "https://www.ibm.com/products/data-capture-and-imaging/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5725C15"
+            }
+        },
+        {
+            "productName": "IBM Enterprise Records",
+            "productAbreviation": "IER",
+            "productDescription": "Manage electronic and physical records consistently and securely",
+            "productId": "5737C29",
+            "cloudPak": "cp4ba",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/enterprise-records",
+                "info": "https://www.ibm.com/products/enterprise-records",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737C29"
+            }
+        },
+        {
+            "productName": "IBM Content Collector for Email",
+            "productAbreviation": "ICC4E",
+            "productDescription": "IBM Content Collector for Email provides automated, policy-driven email archiving according to the policies you define.",
+            "productId": "5724V57",
+            "cloudPak": "cp4ba",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/content-collector",
+                "info": "https://www.ibm.com/products/content-collector-for-email",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5724V57"
+            }
+        },
+        {
+            "productName": "IBM Content Collector for File Systems",
+            "productAbreviation": "ICC4F",
+            "productDescription": "IBM Content Collector for File Systems controls network file share documents through de-duplication, compression and dynamically executed retention functions.",
+            "cloudPak": "cp4ba",
+            "productId": "5724V57",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/content-collector",
+                "info": "https://www.ibm.com/products/content-collector-for-file-systems",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5724V57"
+            }
+        },
+        {
+            "productName": "IBM Content Collector for Microsoft Sharepoint",
+            "productAbreviation": "ICC4S",
+            "productDescription": "IBM Content Collector for Microsoft Sharepoint provides collection and archiving of SharePoint content based on policies you define.",
+            "cloudPak": "cp4ba",
+            "productId": "5724V57",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/content-collector",
+                "info": "https://www.ibm.com/products/content-collector-for-microsoft-sharepoi",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5724V57"
+            }
+        },
+        {
+            "productName": "IBM Content Collector for SAP Applications",
+            "productAbreviation": "ICC4SAP",
+            "productDescription": "IBM Content Collector for SAP Applications extends IBM's technology in value-based archiving techniques to SAP",
+            "cloudPak": "cp4ba",
+            "productId": "5724V57",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/ccfsa",
+                "info": "https://www.ibm.com/products/content-collector-for-sap-applications",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5724V57"
+            }
+        },
+        {
+            "productName": "IBM Business Automation Content Analyzer",
+            "productAbreviation": "BACA",
+            "productDescription": "Use IBM Content Analyzer to digitize document data to create new business insights.",
+            "cloudPak": "not_cloud_pak",
+            "productId": "5900A30",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/bacaoc",
+                "info": "https://www.ibm.com/products/content-analyzer",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5900A30"
+            }
+        },
+        {
+            "productName": "Cloud Pak for Business Automation",
+            "productAbreviation": "CP4BA",
+            "productDescription": "IBM Cloud Pak for Business Automation offers design, build, run, and automation services to rapidly scale your programs and fully execute and operationalize an automation strategy.",
+            "cloudPak": "cp4ba",
+            "productId": "5737I23",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cloud-paks/cp-biz-automation",
+                "info": "https://www.ibm.com/products/cloud-pak-for-business-automation",
+                "trial": "https://www.ibm.com/account/reg/signup?formid=urx-45706",
+                "pricing": "https://www.ibm.com/products/cloud-pak-for-business-automation/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737I23"
+            }
+        },
+        {
+            "productName": "IBM Business Automation Insights",
+            "productAbreviation": "BAI",
+            "productDescription": "IBM Business Automation Insights processes event data so that you can derive insights into the performance of your business. You can use this data to drive automations and visualize the state of the indicators that matter most to you in near real-time.",
+            "cloudPak": "cp4ba",
+            "productId": "5737I23",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cloud-paks/cp-biz-automation/21.0.x?topic=services-business-automation-insights",
+                "info": "https://www.ibm.com/products/cloud-pak-for-business-automation",
+                "trial": "https://www.ibm.com/account/reg/signup?formid=urx-45706",
+                "pricing": "https://www.ibm.com/products/cloud-pak-for-business-automation/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737I23"
+            }
+        },
+        {
+            "productName": "IBM Automation Decision Services",
+            "productAbreviation": "ADS",
+            "productDescription": "Automation Decision Services provides a comprehensive environment for authoring, managing, and running decision services.",
+            "cloudPak": "cp4ba",
+            "productId": "5737I23",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cloud-paks/cp-biz-automation/21.0.x?topic=software-automation-decision-services",
+                "info": "https://www.ibm.com/products/cloud-pak-for-business-automation",
+                "trial": "https://www.ibm.com/account/reg/signup?formid=urx-45706",
+                "pricing": "https://www.ibm.com/products/cloud-pak-for-business-automation/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737I23"
+            }
+        },
+        {
+            "productName": "IBM Automation Document Processing",
+            "productAbreviation": "ADP",
+            "productDescription": "Automation Document Processing provides a tailored solution that reads your documents, extracts data, and refines and stores the data for use.",
+            "cloudPak": "cp4ba",
+            "productId": "5737I23",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cloud-paks/cp-biz-automation/21.0.x?topic=software-automation-document-processing",
+                "info": "https://www.ibm.com/products/cloud-pak-for-business-automation",
+                "trial": "https://www.ibm.com/account/reg/signup?formid=urx-45706",
+                "pricing": "https://www.ibm.com/products/cloud-pak-for-business-automation/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737I23"
+            }
+        },
+        {
+            "productName": "IBM Automation Workstream Services",
+            "productAbreviation": "AWS",
+            "productDescription": "Workstream Services provides a no-code solution for streamlining, automating, and accelerating activities in your daily work.",
+            "cloudPak": "cp4ba",
+            "productId": "5737I23",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cloud-paks/cp-biz-automation/21.0.x?topic=software-automation-workstream-services",
+                "info": "https://www.ibm.com/products/cloud-pak-for-business-automation",
+                "trial": "https://www.ibm.com/account/reg/signup?formid=urx-45706",
+                "pricing": "https://www.ibm.com/products/cloud-pak-for-business-automation/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737I23"
+            }
+        },
+        {
+            "productName": "IBM Workflow Authoring",
+            "productAbreviation": "IWFA",
+            "productDescription": "Author workflow projects (process app and case solutions) in Business Automation Studio and run them in the IBM Cloud Pak\u00ae for Business Automation environment. Create workflow automation services and publish them in Business Automation Studio for discovery and reuse.",
+            "cloudPak": "cp4ba",
+            "productId": "5737I23",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cloud-paks/cp-biz-automation/21.0.x?topic=software-workflow-authoring",
+                "info": "https://www.ibm.com/products/cloud-pak-for-business-automation",
+                "trial": "https://www.ibm.com/account/reg/signup?formid=urx-45706",
+                "pricing": "https://www.ibm.com/products/cloud-pak-for-business-automation/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737I23"
+            }
+        },
+        {
+            "productName": "IBM Process Mining",
+            "productAbreviation": "IPM",
+            "productDescription": "IBM Process Mining is a process mining solution that automatically discovers, constantly monitors, and optimizes the business processes. Process mining uses business system data to create and visualize an end-to-end process that includes all the process activities involved along with the various process paths. Businesses easily analyze the discovered process to gain actionable insights for process improvement.",
+            "cloudPak": "cp4ba",
+            "productId": "5737I23",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cloud-paks/1.0?topic=foundation-process-mining",
+                "info": "https://www.ibm.com/products/process-mining?",
+                "trial": "https://www.ibm.com/account/reg/signup?formid=urx-51356",
+                "pricing": "https://www.ibm.com/products/cloud-pak-for-business-automation/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737I23"
+
+            }
+        },
+        {
+            "productName": "IBM Workflow Process Service",
+            "productAbreviation": "WPS",
+            "productDescription": "Workflow Process Service is a new capability with a small footprint and resource usage for authoring and running workflows, which is offered only as part of IBM Cloud Pak\u00ae for Business Automation.",
+            "cloudPak": "cp4ba",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cloud-paks/cp-biz-automation/21.0.x?topic=software-workflow-process-service",
+                "info": "https://www.ibm.com/products/cloud-pak-for-business-automation",
+                "trial": "https://www.ibm.com/account/reg/signup?formid=urx-45706",
+                "pricing": "https://www.ibm.com/products/cloud-pak-for-business-automation/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737I23"
+            }
+        },
+        {
+            "productName": "IBM Content Manager OnDemand",
+            "productAbreviation": "CMOD",
+            "productDescription": "Automate and optimize storage management, improve customer service and retention, and much more using IBM Content Manager OnDemand solution.",
+            "cloudPak": "not_cloud_pak",
+            "productId": "5724J33",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cmofm",
+                "info": "https://www.ibm.com/products/ibm-content-manager-ondemand",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5724J33"
+            }
+        },
+        {
+            "productName": "IBM Content Manager Enterprise Edition",
+            "productAbreviation": "CM8",
+            "productDescription": "IBM Content Manager software manages content such as electronic office documents, images, audio, and video, while maintaining compliance requirements.",
+            "cloudPak": "not_cloud_pak",
+            "productId": "5724B19",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/content-manager",
+                "info": "https://www.ibm.com/products/content-manager",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5724B19"
+            }
+        }
+    ]
+}

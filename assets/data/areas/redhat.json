@@ -1,1 +1,31 @@
-{"$schema": "../schema/schema.json", "area": "redhat", "products": [{"productName": "OpenShift Container Platform", "productAbreviation": "OCP", "productDescription": "Red Hat OpenShift is the leading enterprise Kubernetes platform that enables a cloud-like experience everywhere it's deployed", "cloudPak": "not_cloud_pak", "links": {"docs": "https://access.redhat.com/documentation/en-us/openshift_container_platform/"}}, {"productName": "Ansible Automation Platform", "productAbreviation": "AAP", "productDescription": "Ansible Automation Platform provides an enterprise framework for building and operating IT automation at scale, from hybrid cloud to the edge", "cloudPak": "not_cloud_pak", "links": {"docs": "https://docs.ansible.com/automation.html"}}]}
+{
+    "$schema": "../schema/schema.json",
+    "area": "redhat",
+    "products": [
+        {
+            "productName": "OpenShift Container Platform",
+            "productAbreviation": "OCP",
+            "productDescription": "Red Hat OpenShift is the leading enterprise Kubernetes platform that enables a cloud-like experience everywhere it's deployed",
+            "cloudPak": "not_cloud_pak",
+            "links": {
+                "docs": "https://access.redhat.com/documentation/en-us/openshift_container_platform/",
+                "info": "https://www.redhat.com/en/technologies/cloud-computing/openshift/container-platform",
+                "trial": "https://www.redhat.com/en/technologies/cloud-computing/openshift/try-it",
+                "lifecycle": "https://access.redhat.com/support/policy/updates/openshift"
+            }
+        },
+        {
+            "productName": "Ansible Automation Platform",
+            "productAbreviation": "AAP",
+            "productDescription": "Ansible Automation Platform provides an enterprise framework for building and operating IT automation at scale, from hybrid cloud to the edge",
+            "cloudPak": "not_cloud_pak",
+            "links": {
+                "docs": "https://docs.ansible.com/automation.html",
+                "info": "https://www.redhat.com/en/technologies/management/ansible",
+                "trial": "https://www.redhat.com/en/technologies/management/ansible/trial",
+                "pricing": "https://www.ansible.com/products/pricing?extIdCarryOver=true&sc_cid=701f2000001OH7EAAW",
+                "lifecycle": "https://access.redhat.com/support/policy/updates/ansible-automation-platform"
+            }
+        }
+    ]
+}

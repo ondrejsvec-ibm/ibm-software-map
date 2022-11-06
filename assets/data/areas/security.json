@@ -1,1 +1,284 @@
-{"$schema": "../schema/schema.json", "area": "security", "products": [{"productName": "IBM Security QRadar SIEM", "productAbreviation": "SIEM", "productDescription": "IBM QRadar SIEM consolidates log events and network flow data from thousands of devices, endpoints and applications distributed throughout a network", "cloudPak": "cp4s", "links": {"docs": "https://www.ibm.com/docs/en/qsip"}}, {"productName": "IBM QRadar Apps", "productAbreviation": "QRDCOM", "productDescription": "IBM\u00ae QRadar apps are created by developers. After a developer creates an app, IBM certifies and publishes it in the IBM Security App Exchange. QRadar administrators can then browse and download the apps and then install the apps into QRadar to address specific security requirements.", "cloudPak": "not_cloud_pak", "links": {"docs": "https://www.ibm.com/docs/en/qradar-common"}}, {"productName": "IBM QRadar Advisor with Watson", "productAbreviation": "QRDAWW", "productDescription": "IBM QRadar Advisor with Watson applies artificial intelligence to help security analysts investigate threats.", "cloudPak": "not_cloud_pak", "links": {"docs": "https://www.ibm.com/docs/en/qradar-common?topic=apps-qradar-advisor-watson-app"}}, {"productName": "IBM QRadar Network Insights", "productAbreviation": "NDR", "productDescription": "IBM QRadar Network Insights enables attack prediction through real-time network traffic analysis.", "cloudPak": "cp4s", "links": {"docs": "https://www.ibm.com/docs/en/qsip"}}, {"productName": "IBM QRadar User Behavior Analytics", "productAbreviation": "QRDUBA", "productDescription": "IBM QRadar User Behavior Analytics (UBA) is an app that provides early visibility to insider threats.", "cloudPak": "cp4s", "links": {"docs": "https://www.ibm.com/docs/en/qsip"}}, {"productName": "IBM QRadar SOAR for CP4S", "productAbreviation": "SOARCP", "productDescription": "The SOAR platform orchestrates and automates the people, processes, and technology that are associated with incident response. The stand-alone virtual appliance.", "cloudPak": "cp4s", "links": {"docs": "https://www.ibm.com/docs/en/SSTDPP_1.8/orchestration/Resilient_SOAR.html"}}, {"productName": "IBM QRadar SOAR", "productAbreviation": "SOAR", "productDescription": "IBM Resilient SOAR Platform orchestrates and automates the people, process, and technology that are associated with incident response. Resilient SOAR Platform streamlines incident response and privacy response management.", "cloudPak": "not_cloud_pak", "links": {"docs": "https://www.ibm.com/docs/en/SSTDPP_1.8/orchestration/Resilient_SOAR.html"}}, {"productName": "IBM Security Guardium Insights", "productAbreviation": "SGI", "productDescription": "IBM Security Guardium Insights is a hybrid cloud data security hub that helps you improve visibility into user data activity and risk. Guardium Insights helps you protect data more efficiently, enhance information technology flexibility, and reduce operational costs as you embrace new business paradigms.", "cloudPak": "cp4s", "links": {"docs": "https://www.ibm.com/docs/en/guardium-insights/"}}, {"productName": "IBM Security Guardium", "productAbreviation": "SG", "productDescription": "IBM\u00ae Guardium prevents leaks from databases, data warehouses and Big Data environments such as Hadoop, ensures the integrity of information and automates compliance controls across heterogeneous environments.", "cloudPak": "cp4s", "links": {"docs": "https://www.ibm.com/docs/en/guardium/"}}, {"productName": "IBM Cloud Pak for Security", "productAbreviation": "CP4S", "productDescription": "IBM Cloud Pak\u00ae for Security provides a platform to quickly integrate security tools and generate deeper insights into threats across hybrid, multicloud environments.", "cloudPak": "cp4s", "links": {"docs": "https://www.ibm.com/docs/en/cloud-paks/cp-security"}}, {"productName": "MaaS360 with Watson", "productAbreviation": "MAAS360", "productDescription": "The IBM\u00ae MaaS360\u00ae Mobile Device Management (SaaS) is an enterprise mobility management (EMM) platform that provides visibility and control of smartphones and tablets in the enterprise.", "cloudPak": "not_cloud_pak", "links": {"docs": "https://www.ibm.com/docs/en/maas360"}}, {"productName": "IBM Security Verify", "productAbreviation": "VERIFY", "productDescription": "IBM Security Verify is an identity-as-a-service (IDaaS) platform that provides SSO, risk-based MFA and adaptive access, user lifecycle management, and identity analytics.", "cloudPak": "not_cloud_pak", "links": {"docs": "https://www.ibm.com/docs/en/security-verify"}}, {"productName": "IBM Trusteer Pinpoint Assure", "productAbreviation": "TPA", "productDescription": "IBM Trusteer Pinpoint Assure helps organizations identify and assess fraudulent intent for new digital account creation.", "cloudPak": "not_cloud_pak", "links": {"docs": "https://www.ibm.com/products/trusteer-pinpoint-assure"}}, {"productName": "IBM Trusteer Pinpoint Detect", "productAbreviation": "TPD", "productDescription": "IBM Trusteer Pinpoint Detect helps banks deliver seamless and secure customer experiences, through multiple security layers preventing financial cyber-crime.", "cloudPak": "not_cloud_pak", "links": {"docs": "https://www.ibm.com/products/trusteer-pinpoint-detect"}}, {"productName": "IBM Trusteer Pinpoint Verify", "productAbreviation": "TPV", "productDescription": "IBM Trusteer Pinpoint Verify helps deliver multi-factor authentication to build end-to-end digital identity trust for a more seamless digital customer experience.", "cloudPak": "not_cloud_pak", "links": {}}, {"productName": "IBM Trusteer Rapport", "productAbreviation": "TPR", "productDescription": "IBM Trusteer Rapport helps financial institutions detect and prevent malware infections and phishing attacks by protecting their retail and business customers.", "cloudPak": "not_cloud_pak", "links": {"docs": "https://www.ibm.com/docs/en/trusteer-rapport"}}, {"productName": "IBM X-Force Exchange", "productAbreviation": "XFORCEX", "productDescription": "IBM X-Force Exchange is a cloud-based threat intelligence sharing platform that enables users to research threats, collaborate with peers and take action.", "cloudPak": "not_cloud_pak", "links": {"docs": "https://www.ibm.com/cz-en/products/xforce-exchange"}}, {"productName": "I2 Intelligence Analysis Platform", "productAbreviation": "I2", "productDescription": "The most trusted intelligence analysis platform for tackling critical missions across national security and defense, law enforcement, fraud, financial crime and cyber.", "cloudPak": "not_cloud_pak", "links": {"docs": "https://www.ibm.com/docs/en/i2-iap"}}, {"productName": "IBM Security Data Explorer", "productAbreviation": "SDE", "productDescription": "IBM\u00ae Security Data Explorer is an application that enables customers to do federated search and investigation across their hybrid, multi-cloud environment in a single interface and workflow.", "cloudPak": "cp4s", "links": {"docs": "https://www.ibm.com/docs/en/SSTDPP_1.8/docs/data-explorer/overview.html"}}, {"productName": "IBM Security Threat Intelligence Insights", "productAbreviation": "STII", "productDescription": "IBM\u00ae Security Threat Intelligence Insights is an application that delivers unique, actionable, and timely threat intelligence. The application provides almost all of the functions that IBM\u00ae X-Force\u00ae Exchange provides.", "cloudPak": "cp4s", "links": {"docs": "https://www.ibm.com/docs/en/SSTDPP_1.8/docs/threat-intelligence-insights/overview.html"}}, {"productName": "IBM Security Risk Manager", "productAbreviation": "SRM", "productDescription": "IBM\u00ae Security Risk Manager for Cloud Pak for Security is an application that automatically collects, correlates, and contextualizes risk insights across the IT and security ecosystem of your organization", "cloudPak": "cp4s", "links": {"docs": "https://www.ibm.com/docs/en/SSTDPP_1.8/datariskmanager/welcome.html"}}, {"productName": "IBM Security Threat Investigator", "productAbreviation": "STI", "productDescription": "IBM\u00ae Security Threat Investigator automatically analyzes and investigates cases to help you make more informed decisions", "cloudPak": "cp4s", "links": {"docs": "https://www.ibm.com/docs/en/SSTDPP_1.8/investigator/investigator_intro.html"}}, {"productName": "IBM Security zSecure", "productAbreviation": "zSecure", "productDescription": "Adds layers of security assurance \u2014 including audits, alerts, administration, reporting and authentication \u2014 that enhance the security and risk management in IBM Z\u00ae hardware, software, virtualization, and standard external security managers (ESMs) such as IBM RACF, CA ACF2, and CA Top Secret.", "cloudPak": "not_cloud_pak", "links": {"docs": "https://www.ibm.com/docs/en/szs"}}, {"productName": "IBM Z Multi-Factor Authentication", "productAbreviation": "zMFA", "productDescription": "Enhance logon security throughout your enterprise with extended mainframe user and token authentication", "cloudPak": "not_cloud_pak", "links": {"docs": "https://www.ibm.com/docs/en/szs/2.5.0?topic=management-z-multi-factor-authentication-mfa-factor"}}, {"productName": "ReaQta", "productAbreviation": "ReaQta", "productDescription": "IBM Security ReaQta offers endpoint detection and response (EDR) and endpoint security using automation and AI to detect and remediate threats in near real time", "cloudPak": "not_cloud_pak", "links": {"docs": "https://reaqta.com/resources/"}}]}
+{
+    "$schema": "../schema/schema.json",
+    "area": "security",
+    "products": [
+        {
+            "productName": "IBM Security QRadar SIEM",
+            "productAbreviation": "SIEM",
+            "productDescription": "IBM QRadar SIEM consolidates log events and network flow data from thousands of devices, endpoints and applications distributed throughout a network",
+            "cloudPak": "cp4s",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/qsip",
+                "info": "https://www.ibm.com/qradar"
+            }
+        },
+        {
+            "productName": "IBM QRadar Apps",
+            "productAbreviation": "QRDCOM",
+            "productDescription": "IBM\u00ae QRadar apps are created by developers. After a developer creates an app, IBM certifies and publishes it in the IBM Security App Exchange. QRadar administrators can then browse and download the apps and then install the apps into QRadar to address specific security requirements.",
+            "cloudPak": "not_cloud_pak",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/qradar-common",
+                "info": "https://www.ibm.com/qradar"
+            }
+        },
+        {
+            "productName": "IBM QRadar Advisor with Watson",
+            "productAbreviation": "QRDAWW",
+            "productDescription": "IBM QRadar Advisor with Watson applies artificial intelligence to help security analysts investigate threats.",
+            "cloudPak": "not_cloud_pak",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/qradar-common?topic=apps-qradar-advisor-watson-app",
+                "info": "https://www.ibm.com/qradar"
+            }
+        },
+        {
+            "productName": "IBM QRadar Network Insights",
+            "productAbreviation": "NDR",
+            "productDescription": "IBM QRadar Network Insights enables attack prediction through real-time network traffic analysis.",
+            "cloudPak": "cp4s",
+            "productId": "5737B26",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/qsip",
+                "info": "https://www.ibm.com/products/qradar-ndr",
+                "pricing": "https://www.ibm.com/products/qradar-ndr/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737B26"
+            }
+        },
+        {
+            "productName": "IBM QRadar User Behavior Analytics",
+            "productAbreviation": "QRDUBA",
+            "productDescription": "IBM QRadar User Behavior Analytics (UBA) is an app that provides early visibility to insider threats.",
+            "cloudPak": "cp4s",
+            "productId": "5737L74",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cloud-paks/cp-security/1.10?topic=organization-user-behavior-analytics",
+                "info": "https://www.ibm.com/products/cloud-pak-for-security",
+                "pricing": "https://www.ibm.com/products/cloud-pak-for-security/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737L74"
+            }
+        },
+        {
+            "productName": "IBM QRadar SOAR for CP4S",
+            "productAbreviation": "SOARCP",
+            "productDescription": "The SOAR platform orchestrates and automates the people, processes, and technology that are associated with incident response. The stand-alone virtual appliance.",
+            "cloudPak": "cp4s",
+            "productId": "5737L74",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cloud-paks/cp-security/1.10?topic=organization-soar",
+                "info": "https://www.ibm.com/products/cloud-pak-for-security",
+                "pricing": "https://www.ibm.com/products/cloud-pak-for-security/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737L74"
+            }
+        },
+        {
+            "productName": "IBM QRadar SOAR",
+            "productAbreviation": "SOAR",
+            "productDescription": "IBM Resilient SOAR Platform orchestrates and automates the people, process, and technology that are associated with incident response. Resilient SOAR Platform streamlines incident response and privacy response management.",
+            "cloudPak": "not_cloud_pak",
+            "productId": "5737A52",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cloud-paks/cp-security/1.10?topic=organization-soar",
+                "info": "https://www.ibm.com/products/qradar-soar",
+                "pricing": "https://www.ibm.com/products/qradar-soar/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737A52"
+            }
+        },
+        {
+            "productName": "IBM Security Guardium Insights",
+            "productAbreviation": "SGI",
+            "productDescription": "IBM Security Guardium Insights is a hybrid cloud data security hub that helps you improve visibility into user data activity and risk. Guardium Insights helps you protect data more efficiently, enhance information technology flexibility, and reduce operational costs as you embrace new business paradigms.",
+            "cloudPak": "cp4s",
+            "productId": "5737L66",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/guardium-insights/",
+                "info": "https://www.ibm.com/products/guardium-insights?",
+                "pricing": "https://www.ibm.com/products/guardium-insights/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737L66"
+            }
+        },
+        {
+            "productName": "IBM Security Guardium",
+            "productAbreviation": "SG",
+            "productDescription": "IBM\u00ae Guardium prevents leaks from databases, data warehouses and Big Data environments such as Hadoop, ensures the integrity of information and automates compliance controls across heterogeneous environments.",
+            "cloudPak": "cp4s",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/guardium/",
+                "info": "https://www.ibm.com/products?q=Security%20Guardium",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=guardium"
+            }
+        },
+        {
+            "productName": "IBM Cloud Pak for Security",
+            "productAbreviation": "CP4S",
+            "productDescription": "IBM Cloud Pak\u00ae for Security provides a platform to quickly integrate security tools and generate deeper insights into threats across hybrid, multicloud environments.",
+            "cloudPak": "cp4s",
+            "productId": "5737L74",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cloud-paks/cp-security",
+                "info": "https://www.ibm.com/products/cloud-pak-for-security",
+                "pricing": "https://www.ibm.com/products/cloud-pak-for-security/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737L74"
+            }
+        },
+        {
+            "productName": "MaaS360 with Watson",
+            "productAbreviation": "MAAS360",
+            "productDescription": "The IBM\u00ae MaaS360\u00ae Mobile Device Management (SaaS) is an enterprise mobility management (EMM) platform that provides visibility and control of smartphones and tablets in the enterprise.",
+            "cloudPak": "not_cloud_pak",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/maas360",
+                "info": "https://www.ibm.com/products/maas360",
+                "trial": "https://www.ibm.com/account/reg/signup?formid=urx-30629",
+                "pricing": "https://www.ibm.com/products/maas360/pricing"
+            }
+        },
+        {
+            "productName": "IBM Security Verify",
+            "productAbreviation": "VERIFY",
+            "productDescription": "IBM Security Verify is an identity-as-a-service (IDaaS) platform that provides SSO, risk-based MFA and adaptive access, user lifecycle management, and identity analytics.",
+            "cloudPak": "not_cloud_pak",
+            "productId": "5725V90",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/security-verify",
+                "info": "https://www.ibm.com/products/verify-identity",
+                "trial": "https://www.ibm.com/account/reg/signup?formid=urx-30041",
+                "pricing": "https://www.ibm.com/products/verify-identity/pricing",
+                "lifcycle": "https://www.ibm.com/support/pages/lifecycle/search?q=Security%20Verify"
+            }
+        },
+        {
+            "productName": "IBM Trusteer Pinpoint Assure",
+            "productAbreviation": "TPA",
+            "productDescription": "IBM Trusteer Pinpoint Assure helps organizations identify and assess fraudulent intent for new digital account creation.",
+            "cloudPak": "not_cloud_pak",
+            "links": {
+                "docs": "https://www.ibm.com/products/trusteer-pinpoint-assure/resources",
+                "info": "https://www.ibm.com/products/trusteer-pinpoint-assure",
+                "pricing": "https://www.ibm.com/products/trusteer-pinpoint-assure/pricing"
+            }
+        },
+        {
+            "productName": "IBM Trusteer Pinpoint Detect",
+            "productAbreviation": "TPD",
+            "productDescription": "IBM Trusteer Pinpoint Detect helps banks deliver seamless and secure customer experiences, through multiple security layers preventing financial cyber-crime.",
+            "cloudPak": "not_cloud_pak",
+            "links": {
+                "docs": "https://www.ibm.com/products/trusteer-pinpoint-detect/resources",
+                "info": "https://www.ibm.com/products/trusteer-pinpoint-detect",
+                "pricing": "https://www.ibm.com/products/trusteer-pinpoint-detect/pricing"
+            }
+        },
+        {
+            "productName": "IBM Trusteer Rapport",
+            "productAbreviation": "TPR",
+            "productDescription": "IBM Trusteer Rapport helps financial institutions detect and prevent malware infections and phishing attacks by protecting their retail and business customers.",
+            "cloudPak": "not_cloud_pak",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/trusteer-rapport",
+                "info": "https://www.ibm.com/products/phishing-and-malware-protection",
+                "pricing": "https://www.ibm.com/products/phishing-and-malware-protection/pricing"
+            }
+        },
+        {
+            "productName": "IBM X-Force Exchange",
+            "productAbreviation": "XFORCEX",
+            "productDescription": "IBM X-Force Exchange is a cloud-based threat intelligence sharing platform that enables users to research threats, collaborate with peers and take action.",
+            "cloudPak": "not_cloud_pak",
+            "links": {
+                "docs": "https://www.ibm.com/products/xforce-exchange/resources",
+                "info": "https://www.ibm.com/products/xforce-exchange",
+                "pricing": "https://www.ibm.com/products/xforce-exchange/editions"
+            }
+        },
+        {
+            "productName": "IBM Security Data Explorer",
+            "productAbreviation": "SDE",
+            "productDescription": "IBM\u00ae Security Data Explorer is an application that enables customers to do federated search and investigation across their hybrid, multi-cloud environment in a single interface and workflow.",
+            "cloudPak": "cp4s",
+            "productId": "5737L74",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cloud-paks/cp-security/1.10?topic=organization-data-explorer",
+                "info": "https://www.ibm.com/products/cloud-pak-for-security",
+                "pricing": "https://www.ibm.com/products/cloud-pak-for-security/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737L74"
+            }
+        },
+        {
+            "productName": "IBM Security Threat Intelligence Insights",
+            "productAbreviation": "STII",
+            "productDescription": "IBM\u00ae Security Threat Intelligence Insights is an application that delivers unique, actionable, and timely threat intelligence. The application provides almost all of the functions that IBM\u00ae X-Force\u00ae Exchange provides.",
+            "cloudPak": "cp4s",
+            "productId": "5737L74",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cloud-paks/cp-security/1.10?topic=organization-threat-intelligence-insights",
+                "info": "https://www.ibm.com/products/cloud-pak-for-security",
+                "pricing": "https://www.ibm.com/products/cloud-pak-for-security/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737L74"
+            }
+        },
+        {
+            "productName": "IBM Security Risk Manager",
+            "productAbreviation": "SRM",
+            "productDescription": "IBM\u00ae Security Risk Manager for Cloud Pak for Security is an application that automatically collects, correlates, and contextualizes risk insights across the IT and security ecosystem of your organization",
+            "cloudPak": "cp4s",
+            "productId": "5737L74",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cloud-paks/cp-security/1.10?topic=organization-risk-manager",
+                "info": "https://www.ibm.com/products/cloud-pak-for-security",
+                "pricing": "https://www.ibm.com/products/cloud-pak-for-security/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737L74"
+            }
+        },
+        {
+            "productName": "IBM Security Threat Investigator",
+            "productAbreviation": "STI",
+            "productDescription": "IBM\u00ae Security Threat Investigator automatically analyzes and investigates cases to help you make more informed decisions",
+            "cloudPak": "cp4s",
+            "productId": "5737L74",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cloud-paks/cp-security/1.10?topic=organization-threat-investigator",
+                "info": "https://www.ibm.com/products/cloud-pak-for-security",
+                "pricing": "https://www.ibm.com/products/cloud-pak-for-security/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737L74"
+            }
+        },
+        {
+            "productName": "IBM Security zSecure",
+            "productAbreviation": "zSecure",
+            "productDescription": "Adds layers of security assurance \u2014 including audits, alerts, administration, reporting and authentication \u2014 that enhance the security and risk management in IBM Z\u00ae hardware, software, virtualization, and standard external security managers (ESMs) such as IBM RACF, CA ACF2, and CA Top Secret.",
+            "cloudPak": "not_cloud_pak",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/szs",
+                "info": "https://www.ibm.com/products?q=Security%20zSecure",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=security%20zsecure"
+            }
+        },
+        {
+            "productName": "IBM Z Multi-Factor Authentication",
+            "productAbreviation": "zMFA",
+            "productDescription": "Enhance logon security throughout your enterprise with extended mainframe user and token authentication",
+            "cloudPak": "not_cloud_pak",
+            "productId": "5655MA1",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/szs/2.5.0?topic=management-z-multi-factor-authentication-mfa-factor",
+                "info": "https://www.ibm.com/products/ibm-multifactor-authentication-for-zos",
+                "trial": "https://epwt-www.mybluemix.net/software/support/trial/cst/welcomepage.wss?siteId=1035&tabId=2565&w=1&_ga=2.261676047.381904225.1667291832-616846995.1667291832",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search/?q=5655MA1"
+            }
+        },
+        {
+            "productName": "ReaQta",
+            "productAbreviation": "ReaQta",
+            "productDescription": "IBM Security ReaQta offers endpoint detection and response (EDR) and endpoint security using automation and AI to detect and remediate threats in near real time",
+            "cloudPak": "not_cloud_pak",
+            "productId": "5900AOI",
+            "links": {
+                "docs": "https://reaqta.com/resources/",
+                "info": "https://www.ibm.com/products/reaqta",
+                "pricing": "https://www.ibm.com/products/reaqta/pricing",
+                "lifecycle": "https://www.ibm.com/common/ssi/ShowDoc.wss?docURL=/common/ssi/rep_sm/i/897/ENUS5900-AOI/index.html#smlcg"
+            }
+        }
+    ]
+}

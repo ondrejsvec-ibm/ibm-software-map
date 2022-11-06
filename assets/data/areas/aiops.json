@@ -1,1 +1,85 @@
-{"$schema": "../schema/schema.json", "area": "automation", "products": [{"productName": "IBM WebSphere Automation", "productAbreviation": "WSA", "productDescription": "IBM WebSphere Automation for Cloud Pak for Watson AIOps uses automation capabilities to extend the value of existing WebSphere Application Server environments.", "cloudPak": "cp4aiops", "links": {"docs": "https://www.ibm.com/docs/en/ws-automation"}}, {"productName": "Instana", "productAbreviation": "INSTANA", "productDescription": "Instana is the first and only fully automated Application Performance Management (APM) solution designed specifically for the challenges of managing microservice and cloud-native applications.", "cloudPak": "not_cloud_pak", "links": {"docs": "https://www.instana.com/docs/"}}, {"productName": "Turbonomic", "productAbreviation": "TURBO", "productDescription": "Turbonomic AI-powered Application Resource Management simultaneously optimizes performance, compliance, and cost in real time.", "cloudPak": "not_cloud_pak", "links": {"docs": "https://www.turbonomic.com"}}, {"productName": "IBM Cloud Pak for Watson AIOps", "productAbreviation": "CP4AIOPS", "productDescription": "IBM Cloud Pak\u00ae for Watson AIOps is an AIOps platform that deploys advanced, explainable AI across the IT Operations (ITOps) toolchain so that you can confidently assess, diagnose, and resolve incidents across mission-critical workloads.", "cloudPak": "cp4aiops", "links": {"docs": "https://www.ibm.com/docs/en/cloud-paks/cloud-pak-watson-aiops"}}, {"productName": "IBM Cloud Pak for Network Automation", "productAbreviation": "CP4NA", "productDescription": "IBM\u00ae Cloud Pak for Network Automation is a cloud networking automation tool that fully automates the operational lifecycle of cloud network services", "cloudPak": "cp4na", "links": {"docs": "https://www.ibm.com/docs/en/cloud-paks/cp-network-auto"}}, {"productName": "IBM Edge Application Manager", "productAbreviation": "EAM", "productDescription": "IBM\u00ae Cloud Pak for Network Automation is a cloud networking automation tool that fully automates the operational lifecycle of cloud network services", "cloudPak": "not_cloud_pak", "links": {"docs": "https://www.ibm.com/docs/en/eam"}}]}
+{
+    "$schema": "../schema/schema.json",
+    "area": "automation",
+    "products": [
+        {
+            "productName": "IBM WebSphere Automation",
+            "productAbreviation": "WSA",
+            "productDescription": "IBM WebSphere Automation for Cloud Pak for Watson AIOps uses automation capabilities to extend the value of existing WebSphere Application Server environments.",
+            "cloudPak": "cp4aiops",
+            "productId": "5900AH1",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/ws-automation",
+                "info": "https://www.ibm.com/products/websphere-automation",
+                "trial": "https://www.ibm.com/account/reg/signup?formid=urx-51258",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5900AH1"
+            }
+        },
+        {
+            "productName": "Instana",
+            "productAbreviation": "INSTANA",
+            "productDescription": "Instana is the first and only fully automated Application Performance Management (APM) solution designed specifically for the challenges of managing microservice and cloud-native applications.",
+            "cloudPak": "not_cloud_pak",
+            "productId": "5737N85",
+            "links": {
+                "docs": "https://www.instana.com/docs/",
+                "info": "https://www.ibm.com/products/instana",
+                "trial": "https://www.instana.com/trial/",
+                "pricing": "https://www.ibm.com/products/instana/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737N85"
+            }
+        },
+        {
+            "productName": "Turbonomic",
+            "productAbreviation": "TURBO",
+            "productDescription": "Turbonomic AI-powered Application Resource Management simultaneously optimizes performance, compliance, and cost in real time.",
+            "cloudPak": "not_cloud_pak",
+            "productId": "5737N29",
+            "links": {
+                "docs": "https://www.turbonomic.com",
+                "info": "https://www.ibm.com/products/turbonomic",
+                "trial": "https://www.turbonomic.com/ibmtry/",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737N29"
+            }
+        },
+        {
+            "productName": "IBM Cloud Pak for Watson AIOps",
+            "productAbreviation": "CP4AIOPS",
+            "productDescription": "IBM Cloud Pak for Watson AIOps is an AIOps platform that deploys advanced, explainable AI across the IT Operations (ITOps) toolchain so that you can confidently assess, diagnose, and resolve incidents across mission-critical workloads.",
+            "cloudPak": "cp4aiops",
+            "productId": "5737M96",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cloud-paks/cloud-pak-watson-aiops",
+                "info": "https://www.ibm.com/products/cloud-pak-for-watson-aiops",
+                "pricing": "https://www.ibm.com/products/cloud-pak-for-watson-aiops/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737M96"
+                
+            }
+        },
+        {
+            "productName": "IBM Cloud Pak for Network Automation",
+            "productAbreviation": "CP4NA",
+            "productDescription": "IBM Cloud Pak for Network Automation is a cloud networking automation tool that fully automates the operational lifecycle of cloud network services",
+            "cloudPak": "cp4na",
+            "productId": "5737M65",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cloud-paks/cp-network-auto",
+                "info": "https://www.ibm.com/products/cloud-pak-for-network-automation",
+                "pricing": "https://www.ibm.com/products/cloud-pak-for-network-automation/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737M65"
+            }
+        },
+        {
+            "productName": "IBM Edge Application Manager",
+            "productAbreviation": "EAM",
+            "productDescription": "IBM Cloud Pak for Network Automation is a cloud networking automation tool that fully automates the operational lifecycle of cloud network services",
+            "cloudPak": "not_cloud_pak",
+            "productId": "5737M71",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/eam",
+                "info": "https://www.ibm.com/cloud/edge-application-manager",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737M71"
+            }
+        }
+    ]
+}

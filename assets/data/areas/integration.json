@@ -1,1 +1,251 @@
-{"$schema": "../schema/schema.json", "area": "automation", "products": [{"productName": "IBM App Connect Enterprise", "productAbreviation": "ACE", "productDescription": "A flexible environment to parse, transform, enrich, route, and process business messages and data. A very wide range of different protocols and message formats are supported.", "cloudPak": "cp4i", "links": {"docs": "https://www.ibm.com/docs/en/app-connect"}}, {"productName": "IBM MQ", "productAbreviation": "MQ", "productDescription": "IBM\u00ae WebSphere\u00ae MQ provides reliable integration messaging to connect applications and Web services across more than 80 supported platforms configurations, including the z/OS platform.", "cloudPak": "cp4i", "links": {"docs": "https://www.ibm.com/docs/en/ibm-mq"}}, {"productName": "IBM DataPower Gateway", "productAbreviation": "IDG", "productDescription": "A purpose-built security and integration platform for mobile, web, API, SOA, B2B and cloud workloads", "cloudPak": "cp4i", "links": {"docs": "https://www.ibm.com/docs/en/datapower-gateways"}}, {"productName": "IBM Event Streams", "productAbreviation": "ES", "productDescription": "IBM Event Streams, an event-streaming platform based on Apache Kafka with IBM added value enhancements, can help you react to events in real time for more engaging customer experiences.", "cloudPak": "cp4i", "links": {"docs": "https://ibm.github.io/event-streams/"}}, {"productName": "IBM API Connect", "productAbreviation": "APIC", "productDescription": "Empowers API developers to rapidly design APIs with security policies and share APIs across organizational boundaries and environments. Full API management controls the lifecycle of APIs and provides deep analytical insight into API usage. A Developer Portal based on Drupal solialises and monetises APIs.", "cloudPak": "cp4i", "links": {"docs": "https://www.ibm.com/docs/en/api-connect"}}, {"productName": "Confluent Platform for IBM Cloud Pak for Integration", "productAbreviation": "CONFL", "productDescription": "Confluent, an event-streaming platform based on Apache Kafka with sevewral  added value enhancements, can help you react to events in real time for more engaging customer experiences.", "cloudPak": "not_cloud_pak", "links": {"docs": "https://docs.confluent.io/platform/current/overview.html"}}, {"productName": "IBM Aspera", "productAbreviation": "HSTS", "productDescription": "High speed file transfer server - transfer any number of files of any size quickly, reliably, and securely.", "cloudPak": "cp4i", "links": {"docs": "https://www.ibm.com/docs/en/ahts"}}, {"productName": "IBM Aspera on Cloud", "productAbreviation": "AOC", "productDescription": "Aspera on Cloud is a solution for transferring and sharing any number of files of any size quickly, reliably, and securely. It improves collaboration by using shared dropboxes and workspaces.", "cloudPak": "not_cloud_pak", "links": {"docs": "https://www.ibm.com/docs/en/aspera-on-cloud"}}, {"productName": "Cloud Pak for Integration", "productAbreviation": "CP4I", "productDescription": "IBM Cloud Pak\u00ae for Integration offers a powerful, integrated platform for deploying containerized integration capabilities as part of a Red Hat OpenShift deployment environment.", "cloudPak": "cp4i", "links": {"docs": "https://www.ibm.com/docs/en/cloud-paks/cp-integration"}}, {"productName": "IBM UrbanCode Deploy", "productAbreviation": "UCD", "productDescription": "Automates the application delivery pipeline using a DevOps approach, lowering costs, speeding time to market while reducing risk; continous delivery on one or many servers on demand and on schedule.", "cloudPak": "not_cloud_pak", "links": {"docs": "https://www.ibm.com/docs/en/urbancode-deploy"}}, {"productName": "IBM UrbanCode Velocity", "productAbreviation": "UCV", "productDescription": "IBM UrbanCode Velocity is an application that manages continuous software delivery by orchestrating on-premises and cloud-based tools.", "cloudPak": "not_cloud_pak", "links": {"docs": "https://www.ibm.com/docs/en/urbancode-velocity"}}, {"productName": "WebSphere Liberty", "productAbreviation": "WSL", "productDescription": "Lightweight, fast, nimble enterprise class app dev platform and run time ideal for developing and deploying cloud native application on or off premise", "cloudPak": "not_cloud_pak", "links": {"docs": "https://www.ibm.com/docs/en/was-liberty"}}, {"productName": "WebSphere Application Server Network Deployment", "productAbreviation": "WASND", "productDescription": "Explore IBM WebSphere Application Server products \u2014 the most advanced application server for building and running Java apps and enterprise applications.", "cloudPak": "not_cloud_pak", "links": {"docs": "https://www.ibm.com/docs/en/was-nd"}}, {"productName": "WebSphere Application Server", "productAbreviation": "WAS", "productDescription": "Explore IBM WebSphere Application Server products \u2014 the most advanced application server for building and running Java apps and enterprise applications.", "cloudPak": "not_cloud_pak", "links": {"docs": "https://www.ibm.com/docs/en/was"}}, {"productName": "WebSphere Hybrid Edition", "productAbreviation": "WSHE", "productDescription": "A leaner, more economical solution enabling clients to optimize WebSphere applications for immediate gain", "cloudPak": "not_cloud_pak", "links": {"docs": "https://www.ibm.com/docs/en/websphere-hybrid"}}, {"productName": "IBM Mono2Micro", "productAbreviation": "M2M", "productDescription": "Mono2Micro is based on IBM Research technology that, when applied to the application code and runtime, traces reasons about application behavior, extracts the business logic, and identifies optimal microservice candidates", "cloudPak": "not_cloud_pak", "links": {"docs": "https://www.ibm.com/docs/en/mono2micro"}}, {"productName": "IBM Cloud Transformation Advisor", "productAbreviation": "CTA", "productDescription": "Simplifies cloud service consumption via a self-service interface. Accelerates application delivery into on-premises and off-premises cloud infrastructures: IBM Cloud, Amazon AWS, and VMware.", "cloudPak": "not_cloud_pak", "links": {"docs": "https://www.ibm.com/docs/en/cta"}}, {"productName": "IBM Rational Test Workbench", "productAbreviation": "RTW", "productDescription": "Delivers functional, load, and integration testing to address the quality challenges of complex and integrated applications. Combine power and simplicity to accelerate testing and shorten the software delivery cycle.", "cloudPak": "not_cloud_pak", "links": {"docs": "https://www.ibm.com/docs/en/rtw"}}, {"productName": "GitLab Ultimate", "productAbreviation": "GLU", "productDescription": "Streamline team collaboration with an innovative, open and hybrid solution for DevOps automation.", "cloudPak": "not_cloud_pak", "links": {"docs": "https://docs.gitlab.com"}}]}
+{
+    "$schema": "../schema/schema.json",
+    "area": "automation",
+    "products": [
+        {
+            "productName": "IBM App Connect Enterprise",
+            "productAbreviation": "ACE",
+            "productDescription": "A flexible environment to parse, transform, enrich, route, and process business messages and data. A very wide range of different protocols and message formats are supported.",
+            "cloudPak": "cp4i",
+            "productId": "5724J05",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/app-connect",
+                "info": "https://www.ibm.com/products/app-connect",
+                "pricing": "https://www.ibm.com/products/app-connect/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5724J05"
+            }
+        },
+        {
+            "productName": "IBM MQ",
+            "productAbreviation": "MQ",
+            "productDescription": "IBM\u00ae WebSphere\u00ae MQ provides reliable integration messaging to connect applications and Web services across more than 80 supported platforms configurations, including the z/OS platform.",
+            "cloudPak": "cp4i",
+            "productId": "5724H72",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/ibm-mq",
+                "info": "https://www.ibm.com/products/mq",
+                "trial" : "https://cloud.ibm.com/catalog/services/mq",
+                "pricing": "https://www.ibm.com/products/mq/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5724H72"
+            }
+        },
+        {
+            "productName": "IBM DataPower Gateway",
+            "productAbreviation": "IDG",
+            "productDescription": "A purpose-built security and integration platform for mobile, web, API, SOA, B2B and cloud workloads",
+            "cloudPak": "cp4i",
+            "productId": "5725T06",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/datapower-gateways",
+                "info": "https://www.ibm.com/products/datapower-gateway",
+                "pricing": "https://www.ibm.com/products/datapower-gateway/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5725T06"
+            }
+        },
+        {
+            "productName": "IBM Event Streams",
+            "productAbreviation": "ES",
+            "productDescription": "IBM Event Streams, an event-streaming platform based on Apache Kafka with IBM added value enhancements, can help you react to events in real time for more engaging customer experiences.",
+            "cloudPak": "cp4i",
+            "productId": "5737H33",
+            "links": {
+                "docs": "https://ibm.github.io/event-streams/",
+                "info": "https://www.ibm.com/cloud/event-streams",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737H33"
+            }
+        },
+        {
+            "productName": "IBM API Connect",
+            "productAbreviation": "APIC",
+            "productDescription": "Empowers API developers to rapidly design APIs with security policies and share APIs across organizational boundaries and environments. Full API management controls the lifecycle of APIs and provides deep analytical insight into API usage. A Developer Portal based on Drupal solialises and monetises APIs.",
+            "cloudPak": "cp4i",
+            "productId": "5725Z22",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/api-connect",
+                "info": "https://www.ibm.com/products/api-connect",
+                "trial": "https://register.automation.ibm.com/apic/trial/aws",
+                "pricing": "https://www.ibm.com/products/api-connect/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5725Z22"
+            }
+        },
+        {
+            "productName": "Confluent Platform for IBM Cloud Pak for Integration",
+            "productAbreviation": "CONFL",
+            "productDescription": "Confluent, an event-streaming platform based on Apache Kafka with sevewral  added value enhancements, can help you react to events in real time for more engaging customer experiences.",
+            "cloudPak": "not_cloud_pak",
+            "productId": "5900AEU",
+            "links": {
+                "docs": "https://docs.confluent.io/platform/current/overview.html",
+                "info": "https://www.ibm.com/products/confluent",
+                "pricing": "https://www.ibm.com/products/confluent/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5900AEU"
+            }
+        },
+        {
+            "productName": "IBM Aspera",
+            "productAbreviation": "HSTS",
+            "productDescription": "High speed file transfer server - transfer any number of files of any size quickly, reliably, and securely.",
+            "cloudPak": "cp4i",
+            "productId": "5737F70",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/ahts",
+                "info": "https://www.ibm.com/products/aspera",
+                "trial": "https://www.ibm.com/account/reg/signup?formid=urx-30538",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737F70"
+            }
+        },
+        {
+            "productName": "IBM Aspera on Cloud",
+            "productAbreviation": "AOC",
+            "productDescription": "Aspera on Cloud is a solution for transferring and sharing any number of files of any size quickly, reliably, and securely. It improves collaboration by using shared dropboxes and workspaces.",
+            "cloudPak": "not_cloud_pak",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/aspera-on-cloud",
+                "info": "https://www.ibm.com/cloud/aspera",
+                "trial": "https://www.ibm.com/account/reg/signup?formid=urx-30538",
+                "pricing": "https://www.ibm.com/cloud/aspera/pricing"
+            }
+        },
+        {
+            "productName": "Cloud Pak for Integration",
+            "productAbreviation": "CP4I",
+            "productDescription": "IBM Cloud Pak\u00ae for Integration offers a powerful, integrated platform for deploying containerized integration capabilities as part of a Red Hat OpenShift deployment environment.",
+            "cloudPak": "cp4i",
+            "productId": "5737i89",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cloud-paks/cp-integration",
+                "info": "https://www.ibm.com/products/cloud-pak-for-integration",
+                "trial": "https://www.ibm.com/account/reg/us-en/signup?formid=urx-50122&mhsrc=ibmsearch_a&mhq=Cloud%20Pak%20for%20Integration",
+                "pricing": "https://www.ibm.com/products/cloud-pak-for-integration/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737i89"
+            }
+        },
+        {
+            "productName": "IBM UrbanCode Deploy",
+            "productAbreviation": "UCD",
+            "productDescription": "Automates the application delivery pipeline using a DevOps approach, lowering costs, speeding time to market while reducing risk; continous delivery on one or many servers on demand and on schedule.",
+            "cloudPak": "not_cloud_pak",
+            "productId": "5725M54",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/urbancode-deploy",
+                "info": "https://www.ibm.com/cloud/urbancode/deploy",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5725M54"
+            }
+        },
+        {
+            "productName": "IBM UrbanCode Velocity",
+            "productAbreviation": "UCV",
+            "productDescription": "IBM UrbanCode Velocity is an application that manages continuous software delivery by orchestrating on-premises and cloud-based tools.",
+            "cloudPak": "not_cloud_pak",
+            "productId": "5737H22",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/urbancode-velocity",
+                "info": "https://www.ibm.com/products/urbancode-velocity",
+                "trial": "https://www.ibm.com/it-infrastructure/us-en/resources/campaignmail/mail/us-en/UCV_Trial/",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737H22"
+            }
+        },
+        {
+            "productName": "WebSphere Liberty",
+            "productAbreviation": "WSL",
+            "productDescription": "Lightweight, fast, nimble enterprise class app dev platform and run time ideal for developing and deploying cloud native application on or off premise",
+            "cloudPak": "not_cloud_pak",
+            "productId": "5725L29",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/was-liberty",
+                "info": "https://www.ibm.com/products/websphere-liberty",
+                "trial": "https://www.ibm.com/account/reg/signup?formid=urx-51755",
+                "pricing": "https://www.ibm.com/products/websphere-liberty/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5725L29"
+            }
+        },
+        {
+            "productName": "WebSphere Application Server Network Deployment",
+            "productAbreviation": "WASND",
+            "productDescription": "Explore IBM WebSphere Application Server products \u2014 the most advanced application server for building and running Java apps and enterprise applications.",
+            "cloudPak": "not_cloud_pak",
+            "productId": "5724H88",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/was-nd",
+                "info": "https://www.ibm.com/products/websphere-application-server",
+                "trial": "https://www.ibm.com/cloud/blog/websphere-trial-options-and-downloads",
+                "pricing": "https://www.ibm.com/products/websphere-application-server/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5724H88"
+            }
+        },
+        {
+            "productName": "WebSphere Application Server",
+            "productAbreviation": "WAS",
+            "productDescription": "Explore IBM WebSphere Application Server products \u2014 the most advanced application server for building and running Java apps and enterprise applications.",
+            "cloudPak": "not_cloud_pak",
+            "productId": "5724J08",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/was",
+                "info": "https://www.ibm.com/products/websphere-application-server",
+                "trial": "https://www.ibm.com/cloud/blog/websphere-trial-options-and-downloads",
+                "pricing": "https://www.ibm.com/products/websphere-application-server/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5724J08"
+            }
+        },
+        {
+            "productName": "WebSphere Hybrid Edition",
+            "productAbreviation": "WSHE",
+            "productDescription": "A leaner, more economical solution enabling clients to optimize WebSphere applications for immediate gain",
+            "cloudPak": "not_cloud_pak",
+            "productId": "5737N60",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/websphere-hybrid",
+                "info": "https://www.ibm.com/products/websphere-hybrid-edition",
+                "pricing": "https://www.ibm.com/products/websphere-hybrid-edition/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737N60"
+            }
+        },
+        {
+            "productName": "IBM Mono2Micro",
+            "productAbreviation": "M2M",
+            "productDescription": "Mono2Micro is based on IBM Research technology that, when applied to the application code and runtime, traces reasons about application behavior, extracts the business logic, and identifies optimal microservice candidates",
+            "cloudPak": "not_cloud_pak",
+            "productId": "5737N60",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/mono2micro",
+                "info": "https://www.ibm.com/cloud/mono2micro",
+                "trial": "https://www.ibm.com/account/reg/signup?formid=urx-49257",
+                "pricing": "https://www.ibm.com/products/websphere-hybrid-edition/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737N60"
+            }
+        },
+        {
+            "productName": "IBM Cloud Transformation Advisor",
+            "productAbreviation": "CTA",
+            "productDescription": "Simplifies cloud service consumption via a self-service interface. Accelerates application delivery into on-premises and off-premises cloud infrastructures: IBM Cloud, Amazon AWS, and VMware.",
+            "cloudPak": "not_cloud_pak",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cta"
+            }
+        },
+        {
+            "productName": "IBM Rational Test Workbench",
+            "productAbreviation": "RTW",
+            "productDescription": "Delivers functional, load, and integration testing to address the quality challenges of complex and integrated applications. Combine power and simplicity to accelerate testing and shorten the software delivery cycle.",
+            "cloudPak": "not_cloud_pak",
+            "productId": "5725G79",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/rtw",
+                "info": "https://www.ibm.com/products/rational-test-workbench",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5725G79"
+            }
+        },
+        {
+            "productName": "GitLab Ultimate",
+            "productAbreviation": "GLU",
+            "productDescription": "Streamline team collaboration with an innovative, open and hybrid solution for DevOps automation.",
+            "cloudPak": "not_cloud_pak",
+            "productId": "5737N79",
+            "links": {
+                "docs": "https://docs.gitlab.com",
+                "info": "https://www.ibm.com/products/gitlab-ultimate",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737N79"
+            }
+        }
+    ]
+}

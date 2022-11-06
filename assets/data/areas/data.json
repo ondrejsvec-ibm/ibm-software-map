@@ -1,1 +1,622 @@
-{"$schema": "../schema/schema.json", "area": "data_ai", "products": [{"productName": "IBM Cognos Analytics", "productAbreviation": "ICGA", "productDescription": "Cognos Analytics with Watson takes BI a step further with AI capabilities that not only bring an accurate, trusted and complete picture of your business, but forecast what\u2019s coming in the future, predict outcomes and explain why they may happen.", "cloudPak": "cp4d", "links": {"docs": "https://www.ibm.com/docs/en/cognos-analytics"}}, {"productName": "IBM Planning Analytics", "productAbreviation": "IPA", "productDescription": "IBM Planning Analytics provides a single solution to automate planning, budgeting and forecasting for your enterprise.", "cloudPak": "cp4d", "links": {"docs": "https://www.ibm.com/docs/en/planning-analytics"}}, {"productName": "IBM Watson Assistant", "productAbreviation": "IWA", "productDescription": "IBM Watson Assistant uses artificial intelligence that understands customers in context to provide fast, consistent, and accurate answers across any application, device, or channel. Remove the frustration of long wait times, tedious searches, and unhelpful chatbots with the leader in trustworthy AI.", "cloudPak": "cp4d", "links": {"docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=services-watson-assistant"}}, {"productName": "IBM Watson Assistant for Voice Interaction", "productAbreviation": "IWA4VI", "productDescription": "Watson Assistant for Voice Interaction is a set of services for IBM Cloud Pak for Data, that, along with IBM Voice Gateway, deliver a Watson-based voice automation system.", "cloudPak": "cp4d", "links": {"docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=services-watson-assistant-voice-interaction"}}, {"productName": "IBM Watson Discovery", "productAbreviation": "IWD", "productDescription": "Watson Discovery is an award-winning AI-powered search technology that eliminates data silos and retrieves information buried inside enterprise data.", "cloudPak": "cp4d", "links": {"docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=services-watson-discovery"}}, {"productName": "IBM Watson Studio", "productAbreviation": "IWS", "productDescription": "Build, run and manage AI models. Prepare data and build models on any cloud using open source code or visual modeling. Predict and optimize your outcomes.", "cloudPak": "cp4d", "links": {"docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=services-watson-studio"}}, {"productName": "IBM Watson Machine Learning", "productAbreviation": "WML", "productDescription": "Watson Machine Learning provides a full range of tools and services so that you can build, train, and deploy Machine Learning models. Choose the tool with the level of automation or autonomy that matches your needs, from a fully automated process to writing your own code", "cloudPak": "cp4d", "links": {"docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=services-watson-machine-learning"}}, {"productName": "IBM Watson Machine Learning Accelerator", "productAbreviation": "WMLA", "productDescription": "IBM Watson Machine Learning Accelerator is a deep learning platform that data scientists can use to build, train, and deploy deep learning models.", "cloudPak": "cp4d", "links": {"docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=services-watson-machine-learning-accelerator"}}, {"productName": "IBM Watson OpenScale", "productAbreviation": "WOS", "productDescription": "IBM Watson OpenScale is an enterprise-grade environment for AI applications that provides your enterprise visibility into how your AI is built, is used, and delivers return on investment. Its open platform enables businesses to operate and automate AI at scale with transparent, explainable outcomes that are free from harmful bias and drift.", "cloudPak": "cp4d", "links": {"docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=services-watson-openscale"}}, {"productName": "IBM SPSS Modeler", "productAbreviation": "SPSSM", "productDescription": "A powerful, versatile data mining workbench that is the ideal choice for today's data-rich organizations", "cloudPak": "cp4d", "links": {"docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=services-spss-modeler"}}, {"productName": "IBM SPSS Statistics", "productAbreviation": "SPSSS", "productDescription": "Thousands of commercial, government and academic organizations worldwide solve a range of business and research problems with IBM SPSS Statistics' rich statistical capabilities", "cloudPak": "not_cloud_pak", "links": {"docs": "https://www.ibm.com/docs/en/spss-statistics"}}, {"productName": "IBM Match 360 with Watson", "productAbreviation": "MCH360", "productDescription": "IBM Match 360 with Watson on IBM Cloud Pak for Data seamlessly consolidates data from disparate sources to establish a single, trusted, 360-degree view of your customers. IBM Match 360 with Watson (IBM Match 360) includes cloud-native, machine learning-assisted, self-service analytics and matching tools that deliver business insights.", "cloudPak": "cp4d", "links": {"docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=services-match-360-watson"}}, {"productName": "IBM Voice Gateway", "productAbreviation": "IVG", "productDescription": "IBM Voice Agent with Watson helps enhance your call center operations by connecting to IBM Watson services.", "cloudPak": "cp4d", "links": {"docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=services-voice-gateway"}}, {"productName": "IBM Watson Knowledge Studio", "productAbreviation": "WKS", "productDescription": "Teach IBM Watson the language of your domain with custom models that identify entities and relationships unique to your industry in unstructured text.", "cloudPak": "cp4d", "links": {"docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=services-watson-knowledge-studio"}}, {"productName": "IBM Watson Speech to Text", "productAbreviation": "S2T", "productDescription": "IBM Watson Speech to Text for IBM Cloud Pak for Data provides speech recognition capabilities for your applications.", "cloudPak": "cp4d", "links": {"docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=services-watson-speech-text"}}, {"productName": "IBM Watson Text to Speech", "productAbreviation": "T2S", "productDescription": "IBM Watson Text to Speech for IBM Cloud Pak for Data provides speech synthesis capabilities for your applications to convert written text to natural-sounding speech", "cloudPak": "cp4d", "links": {"docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=services-watson-text-speech"}}, {"productName": "IBM Analytics Engine powered by Apache Spark", "productAbreviation": "AEPAS", "productDescription": "With Analytics Engine powered by Apache Spark, you can run jobs on a Spark cluster", "cloudPak": "cp4d", "links": {"docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=services-analytics-engine-powered-by-apache-spark"}}, {"productName": "IBM Data Refinery", "productAbreviation": "IDR", "productDescription": "The Data Refinery service reduces the amount of time it takes to prepare data. Use pre-defined operations that you can use in your data flows to transform large amounts of raw data into consumable, quality data that\u2019s ready for analysis", "cloudPak": "cp4d", "links": {"docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=services-data-refinery"}}, {"productName": "IBM DataStage", "productAbreviation": "IDTS", "productDescription": "You can use the DataStage services, DataStage Enterprise and DataStage Enterprise Plus, to design and run data flows that move and transform data", "cloudPak": "cp4d", "links": {"docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=services-datastage"}}, {"productName": "IBM Db2 Big SQL", "productAbreviation": "DB2BSQL", "productDescription": "IBM\u00ae Db2\u00ae Big SQL is an advanced SQL engine that is optimized for advanced analytics in big data environments. IBM Db2 Big SQL combines open source big data technologies with powerful Db2 SQL processing to drive efficient, interactive, and batch analytics use cases.", "cloudPak": "cp4d", "links": {"docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=services-db2-big-sql"}}, {"productName": "IBM Decision Optimization", "productAbreviation": "IDO", "productDescription": "The IBM Decision Optimization service provides CPLEX optimization engines that enable your organization to make optimal business decisions by evaluating millions of possibilities to find the most appropriate prescriptive solutions.", "cloudPak": "cp4d", "links": {"docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=services-decision-optimization"}}, {"productName": "IBM Execution Engine for Apache Hadoop", "productAbreviation": "EEAH", "productDescription": "The Execution Engine for Apache Hadoop services integrates the Watson Studio service with your remote Apache Hadoop cluster.", "cloudPak": "cp4d", "links": {"docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=services-execution-engine-apache-hadoop"}}, {"productName": "IBM Cognos Dashboards", "productAbreviation": "ICGD", "productDescription": "With the Cognos Dashboards service, you can use sophisticated visualizations in an analytics project to identify patterns in your data so you can make timely and effective decisions. No coding needed.", "cloudPak": "cp4d", "links": {"docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=services-cognos-dashboards"}}, {"productName": "IBM Product Master", "productAbreviation": "IPMSTR", "productDescription": "IBM Product Master provides trusted Product Information Management (PIM) and collaborative Master Data Management (MDM) capabilities. ", "cloudPak": "cp4d", "links": {"docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=services-product-master"}}, {"productName": "IBM Watson Knowledge Catalog", "productAbreviation": "WKG", "productDescription": "Watson Knowledge Catalog provides a secure enterprise catalog management platform that is supported by a data governance framework. A catalog connects people to the data and knowledge that they need", "cloudPak": "cp4d", "links": {"docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=services-watson-knowledge-catalog"}}, {"productName": "IBM Data Virtualization", "productAbreviation": "DVIRT", "productDescription": "Data Virtualization connects multiple data sources across locations and turns all of this data into one logical data view. This virtual data view makes the job of getting value out of your data easy.", "cloudPak": "cp4d", "links": {"docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=services-data-virtualization"}}, {"productName": "IBM Db2", "productAbreviation": "DB2", "productDescription": "IBM Db2 provides advanced data management and analytics capabilities for transactional workloads. Db2 has no processor, memory, or database size limits, which makes it ideal for any size workload.", "cloudPak": "cp4d", "links": {"docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=services-db2"}}, {"productName": "IBM Db2 for z/OS Data Gate", "productAbreviation": "DB2DG", "productDescription": "The IBM Db2 for z/OS Data Gate service extracts, loads, and synchronizes your mission-critical data from Db2 for z/OS to Cloud Pak for Data for quick access by your new, high volume, read-only transactional and analytic applications.", "cloudPak": "cp4d", "links": {"docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=services-db2-data-gate"}}, {"productName": "IBM Db2 Data Management Console", "productAbreviation": "DB2DMC", "productDescription": "IBM Db2 Data Management Console is a tool that you can use to manage and monitor your integrated IBM Db2 databases from a single user interface.", "cloudPak": "cp4d", "links": {"docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=services-db2-data-management-console"}}, {"productName": "IBM Db2 Event Store", "productAbreviation": "DB2ES", "productDescription": "IBM Db2 Event Store is a cloud-native database system that is designed to handle massive amounts of structured data that is stored in Apache Parquet format.", "cloudPak": "cp4d", "links": {"docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=services-db2-event-store"}}, {"productName": "IBM Db2 Warehouse", "productAbreviation": "DB2WH", "productDescription": "IBM Db2 Warehouse is an analytics data warehouse that features in-memory data processing and in-database analytics. It is client-managed and optimized for fast and flexible deployment, with automated scaling that supports analytics workloads", "cloudPak": "cp4d", "links": {"docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=services-db2-warehouse"}}, {"productName": "EDB Postgres", "productAbreviation": "EDBPSQL", "productDescription": "You can use the EDB Postgres services, EDB Postgres Standard and EDB Postgres Enterprise, to provision and manage PostgreSQL databases in Cloud Pak for Data.", "cloudPak": "cp4d", "links": {"docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=services-edb-postgres"}}, {"productName": "Informix", "productAbreviation": "IFX", "productDescription": "Informix provides a high-performance engine that integrates TimeSeries, Spatial, NoSQL, and SQL data together with easy access via MQTT, REST, and MongoDB APIs.", "cloudPak": "cp4d", "links": {"docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=services-informix"}}, {"productName": "MongoDB Enterprise Advanced", "productAbreviation": "MNGDB", "productDescription": "MongoDB Enterprise Advanced is a cross-platform, document-oriented, NoSQL database.", "cloudPak": "cp4d", "links": {"docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=services-mongodb"}}, {"productName": "RStudio Server with R", "productAbreviation": "RSTUDIO", "productDescription": "RStudio provides an integrated development environment (IDE) for working with R in Watson Studio to create R Shiny applications.", "cloudPak": "cp4d", "links": {"docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=services-rstudio-server-r-36"}}, {"productName": "IBM Financial Services Workbench", "productAbreviation": "FSW", "productDescription": "BM Financial Services Workbench helps banks to transform digital business opportunities into cloud-native solutions. To this end, the offering has a strong emphasis on enabling people in their different roles to collaboratively design, implement and test microservices.", "cloudPak": "cp4d", "links": {"docs": "https://fswb-documentation.knowis.net/2.9/index.html"}}, {"productName": "IBM OpenPages", "productAbreviation": "IOP", "productDescription": "You can use OpenPages to manage risk and regulatory challenges across your organization. OpenPages is an integrated governance, risk, and compliance (GRC) suite.", "cloudPak": "cp4d", "links": {"docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=services-openpages"}}, {"productName": "IBM Cognos Controller", "productAbreviation": "ICGC", "productDescription": "With IBM Cognos Controller, finance teams can automate and accelerate the close, consolidation and reporting process with minimal IT support.", "cloudPak": "not_cloud_pak", "links": {"docs": "https://www.ibm.com/docs/en/cognos-controller"}}, {"productName": "IBM Safer Payments", "productAbreviation": "ISPAY", "productDescription": "IBM Safer Payments is a real-time payments fraud prevention software for any kind of cashless payment system through any channel in the financial services industry", "cloudPak": "cp4d", "links": {"docs": "https://www.ibm.com/cloud/payment-fraud-prevention"}}, {"productName": "IBM Financial Crimes Insight", "productAbreviation": "FCI", "productDescription": "IBM Financial Crimes Insight helps organizations take an AI-infused approach to a variety of risk and compliance use cases.", "cloudPak": "cp4d", "links": {"docs": "https://www.ibm.com/docs/en/fci"}}, {"productName": "IBM Cloud Pak for Data", "productAbreviation": "CP4D", "productDescription": "IBM\u00ae Cloud Pak for Data is a cloud-native solution that enables you to put your data to work quickly and efficiently.", "cloudPak": "cp4d", "links": {"docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data"}}, {"productName": "IBM Cloud Pak for Data System", "productAbreviation": "CP4DS", "productDescription": "Cloud Pak for Data System is an all-in-one cloud-native Data and AI platform in a box. The hardware components that are optimized for data analytics can be installed in a customer-provided rack or be delivered in an integrated rack.", "cloudPak": "cp4d", "links": {"docs": "https://www.ibm.com/docs/en/cloud-paks/cloudpak-data-system"}}, {"productName": "InfoSphere Virtual Data Pipeline", "productAbreviation": "ISVDP", "productDescription": "Provision and refresh virtual test data environments in just minutes", "cloudPak": "not_cloud_pak", "links": {"docs": "https://www.ibm.com/products/ibm-infosphere-virtual-data-pipeline"}}, {"productName": "Cloudera Data Platform", "productAbreviation": "CDP", "productDescription": "Cloudera Data Platform (CDP) manages and secures the data lifecycle across all major public clouds and the private cloud\u2014seamlessly connecting on-premises environments to public clouds for a hybrid cloud experience", "cloudPak": "not_cloud_pak", "links": {"docs": "https://www.cloudera.com/products/cloudera-data-platform.html"}}, {"productName": "InfoSphere Master Data Management", "productAbreviation": "MDM", "productDescription": "IBM\u00ae InfoSphere\u00ae Master Data Management provides comprehensive matching capabilities for reconciling data differences, giving you the most up-to-date and accurate view of data.", "cloudPak": "cp4d", "links": {"docs": "https://www.ibm.com/docs/en/imdm"}}]}
+{
+    "$schema": "../schema/schema.json",
+    "area": "data_ai",
+    "products": [
+        {
+            "productName": "IBM Cognos Analytics",
+            "productAbreviation": "ICGA",
+            "productDescription": "Cognos Analytics with Watson takes BI a step further with AI capabilities that not only bring an accurate, trusted and complete picture of your business, but forecast what\u2019s coming in the future, predict outcomes and explain why they may happen.",
+            "cloudPak": "cp4d",
+            "productId": "5724W12",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cognos-analytics", 
+                "info": "https://www.ibm.com/products/cognos-analytics",
+                "trial": "https://www.ibm.com/account/reg/signup?formid=urx-34710",
+                "pricing": "https://www.ibm.com/products/cognos-analytics/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5724W12"
+            }
+        },
+        {
+            "productName": "IBM Planning Analytics",
+            "productAbreviation": "IPA",
+            "productDescription": "IBM Planning Analytics provides a single solution to automate planning, budgeting and forecasting for your enterprise.",
+            "cloudPak": "cp4d",
+            "productId": "5737C24",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/planning-analytics",
+                "info": "https://www.ibm.com/products/planning-analytics",
+                "trial": "https://www.ibm.com/products/planning-analytics#3154128",
+                "pricing": "https://www.ibm.com/products/planning-analytics/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737C24"
+            }
+        },
+        {
+            "productName": "IBM Watson Assistant for Voice Interaction",
+            "productAbreviation": "IWA4VI",
+            "productDescription": "Watson Assistant for Voice Interaction is a set of services for IBM Cloud Pak for Data, that, along with IBM Voice Gateway, deliver a Watson-based voice automation system.",
+            "cloudPak": "cp4d",
+            "productId": "5737H76",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.5.x?topic=services-watson-assistant-voice-interaction",
+                "info": "https://www.ibm.com/products/cloud-pak-for-data", 
+                "trial": "https://dataplatform.cloud.ibm.com/registration/stepone?context=cpdaas&apps=all",
+                "pricing": "https://www.ibm.com/products/cloud-pak-for-data/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737H76"
+            }
+        },
+        {
+            "productName": "IBM Watson Discovery",
+            "productAbreviation": "IWD",
+            "productDescription": "Watson Discovery is an award-winning AI-powered search technology that eliminates data silos and retrieves information buried inside enterprise data.",
+            "cloudPak": "cp4d",
+            "productId": "5737I51",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.5.x?topic=services-watson-discovery",
+                "info": "https://www.ibm.com/cloud/watson-discovery",
+                "trial": "https://cloud.ibm.com/registration?target=/catalog/services/discovery%3FhideTours%3Dtrue%26&cm_sp=WatsonPlatform-WatsonPlatform-_-OnPageNavCTA-IBMWatson_Discovery-_-Watson_Developer_Website&cm_mmca1=000016UP",
+                "pricing": "https://www.ibm.com/cloud/watson-discovery/pricing/",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search/?q=5737I51"
+            }
+        },
+        {
+            "productName": "IBM Watson Studio",
+            "productAbreviation": "IWS",
+            "productDescription": "Build, run and manage AI models. Prepare data and build models on any cloud using open source code or visual modeling. Predict and optimize your outcomes.",
+            "cloudPak": "cp4d",
+            "productId": "5900ABU",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.5.x?topic=services-watson-studio",
+                "info": "https://www.ibm.com/cloud/watson-studio",
+                "trial": "https://dataplatform.cloud.ibm.com/registration/stepone?context=cpdaas&apps=data_science_experience%2Cwatson_machine_learning%2Ccos&utm_content=CPDWW",
+                "pricing": "https://www.ibm.com/cloud/watson-studio/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5900ABU"
+            }
+        },
+        {
+            "productName": "IBM Watson Machine Learning",
+            "productAbreviation": "WML",
+            "productDescription": "Watson Machine Learning provides a full range of tools and services so that you can build, train, and deploy Machine Learning models. Choose the tool with the level of automation or autonomy that matches your needs, from a fully automated process to writing your own code",
+            "cloudPak": "cp4d",
+            "productId": "5900ABU",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.5.x?topic=services-watson-machine-learning",
+                "info": "https://www.ibm.com/products/cloud-pak-for-data", 
+                "trial": "https://dataplatform.cloud.ibm.com/registration/stepone?context=cpdaas&apps=all",
+                "pricing": "https://www.ibm.com/products/cloud-pak-for-data/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737H76"
+            }
+        },
+        {
+            "productName": "IBM Watson Machine Learning Accelerator",
+            "productAbreviation": "WMLA",
+            "productDescription": "IBM Watson Machine Learning Accelerator is a deep learning platform that data scientists can use to build, train, and deploy deep learning models.",
+            "cloudPak": "cp4d",
+            "productId": "5737F22",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.5.x?topic=services-watson-machine-learning-accelerator",
+                "info": "https://www.ibm.com/products/deep-learning-platform",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737F22"
+            }
+        },
+        {
+            "productName": "IBM Watson OpenScale",
+            "productAbreviation": "WOS",
+            "productDescription": "IBM Watson OpenScale is an enterprise-grade environment for AI applications that provides your enterprise visibility into how your AI is built, is used, and delivers return on investment. Its open platform enables businesses to operate and automate AI at scale with transparent, explainable outcomes that are free from harmful bias and drift.",
+            "cloudPak": "cp4d",
+            "productId": "5737H76",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.5.x?topic=services-watson-openscale",
+                "info": "https://www.ibm.com/products/cloud-pak-for-data", 
+                "trial": "https://dataplatform.cloud.ibm.com/registration/stepone?context=cpdaas&apps=all",
+                "pricing": "https://www.ibm.com/products/cloud-pak-for-data/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737H76"
+            }
+        },
+        {
+            "productName": "IBM SPSS Modeler",
+            "productAbreviation": "SPSSM",
+            "productDescription": "A powerful, versatile data mining workbench that is the ideal choice for today's data-rich organizations",
+            "cloudPak": "cp4d",
+            "productId": "5725A64",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.5.x?topic=services-spss-modeler",
+                "info": "https://www.ibm.com/products/spss-modeler",
+                "trial": "https://www.ibm.com/account/reg/signup?formid=urx-19947",
+                "pricing": "https://www.ibm.com/products/spss-modeler/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5725A64"
+            }
+        },
+        {
+            "productName": "IBM SPSS Statistics",
+            "productAbreviation": "SPSSS",
+            "productDescription": "Thousands of commercial, government and academic organizations worldwide solve a range of business and research problems with IBM SPSS Statistics' rich statistical capabilities",
+            "cloudPak": "not_cloud_pak",
+            "productId": "5725A54",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/spss-statistics",
+                "info": "https://www.ibm.com/products/spss-statistics",
+                "trial": "https://www.ibm.com/account/reg/signup?formid=urx-19774",
+                "pricing": "https://www.ibm.com/products/spss-statistics/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5725A54"
+            }
+        },
+        {
+            "productName": "IBM Match 360 with Watson",
+            "productAbreviation": "MCH360",
+            "productDescription": "IBM Match 360 with Watson on IBM Cloud Pak for Data seamlessly consolidates data from disparate sources to establish a single, trusted, 360-degree view of your customers. IBM Match 360 with Watson (IBM Match 360) includes cloud-native, machine learning-assisted, self-service analytics and matching tools that deliver business insights.",
+            "cloudPak": "cp4d",
+            "productId": "5737H76",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.5.x?topic=services-match-360-watson",
+                "info": "https://www.ibm.com/products/cloud-pak-for-data", 
+                "trial": "https://dataplatform.cloud.ibm.com/registration/stepone?context=cpdaas&apps=all",
+                "pricing": "https://www.ibm.com/products/cloud-pak-for-data/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737H76"
+            }
+        },
+        {
+            "productName": "IBM Voice Gateway",
+            "productAbreviation": "IVG",
+            "productDescription": "IBM Voice Agent with Watson helps enhance your call center operations by connecting to IBM Watson services.",
+            "cloudPak": "cp4d",
+            "productId": "5737H76",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.5.x?topic=services-voice-gateway",
+                "info": "https://www.ibm.com/products/cloud-pak-for-data", 
+                "trial": "https://dataplatform.cloud.ibm.com/registration/stepone?context=cpdaas&apps=all",
+                "pricing": "https://www.ibm.com/products/cloud-pak-for-data/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737H76"
+            }
+        },
+        {
+            "productName": "IBM Watson Knowledge Studio",
+            "productAbreviation": "WKS",
+            "productDescription": "Teach IBM Watson the language of your domain with custom models that identify entities and relationships unique to your industry in unstructured text.",
+            "cloudPak": "cp4d",
+            "productId": "5737H76",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.5.x?topic=services-watson-knowledge-studio",
+                "info": "https://www.ibm.com/cloud/watson-knowledge-studio",
+                "trial": "https://cloud.ibm.com/registration?target=/catalog/services/knowledge-studio%3FhideTours%3Dtrue%26%3Fcm_sp%3DWatsonPlatform-WatsonPlatform--OnPageNavCTA-IBMWatson_Discovery--Watson_Developer_Website",
+                "pricing": "https://www.ibm.com/cloud/watson-knowledge-studio/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737H76"
+            }
+        },
+        {
+            "productName": "IBM Watson Speech to Text",
+            "productAbreviation": "S2T",
+            "productDescription": "IBM Watson Speech to Text for IBM Cloud Pak for Data provides speech recognition capabilities for your applications.",
+            "cloudPak": "cp4d",
+            "productId": "5737H76",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.5.x?topic=services-watson-speech-text",
+                "info": "https://www.ibm.com/cloud/watson-speech-to-text",
+                "trial": "https://cloud.ibm.com/catalog/services/speech-to-text",
+                "pricing": "https://www.ibm.com/cloud/watson-speech-to-text/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737H76"
+            }
+        },
+        {
+            "productName": "IBM Watson Text to Speech",
+            "productAbreviation": "T2S",
+            "productDescription": "IBM Watson Text to Speech for IBM Cloud Pak for Data provides speech synthesis capabilities for your applications to convert written text to natural-sounding speech",
+            "cloudPak": "cp4d",
+            "productId": "5737H76",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.5.x?topic=services-watson-text-speech",
+                "info": "https://www.ibm.com/cloud/watson-text-to-speech",
+                "trial": "https://cloud.ibm.com/catalog/services/text-to-speech",
+                "pricing": "https://www.ibm.com/cloud/watson-text-to-speech/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737H76"
+            }
+        },
+        {
+            "productName": "IBM Analytics Engine powered by Apache Spark",
+            "productAbreviation": "AEPAS",
+            "productDescription": "With Analytics Engine powered by Apache Spark, you can run jobs on a Spark cluster",
+            "cloudPak": "cp4d",
+            "productId": "5737H76",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.5.x?topic=services-analytics-engine-powered-by-apache-spark",
+                "info": "https://www.ibm.com/products/cloud-pak-for-data", 
+                "trial": "https://dataplatform.cloud.ibm.com/registration/stepone?context=cpdaas&apps=all",
+                "pricing": "https://www.ibm.com/products/cloud-pak-for-data/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737H76"
+            }
+        },
+        {
+            "productName": "IBM Data Refinery",
+            "productAbreviation": "IDR",
+            "productDescription": "The Data Refinery service reduces the amount of time it takes to prepare data. Use pre-defined operations that you can use in your data flows to transform large amounts of raw data into consumable, quality data that\u2019s ready for analysis",
+            "cloudPak": "cp4d",
+            "productId": "5737H76",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.5.x?topic=services-data-refinery",
+                "info": "https://www.ibm.com/cloud/data-refinery",
+                "pricing": "https://www.ibm.com/products/cloud-pak-for-data/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737H76"
+            }
+        },
+        {
+            "productName": "IBM DataStage",
+            "productAbreviation": "IDTS",
+            "productDescription": "You can use the DataStage services, DataStage Enterprise and DataStage Enterprise Plus, to design and run data flows that move and transform data",
+            "cloudPak": "cp4d",
+            "productId": "5900ABN",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.5.x?topic=services-datastage",
+                "info": "https://www.ibm.com/products/datastage",
+                "trial": "https://dataplatform.cloud.ibm.com/registration/stepone?context=cpdaas&apps=cos%2Cdatastage&regions=us-south%2Ceu-de&S_PKG=ov80049&cm_mmca1=10000665&cm_mmca2=000000TF",
+                "pricing": "https://www.ibm.com/products/datastage/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=datastage"
+            }
+        },
+        {
+            "productName": "IBM Db2 Big SQL",
+            "productAbreviation": "DB2BSQL",
+            "productDescription": "IBM\u00ae Db2\u00ae Big SQL is an advanced SQL engine that is optimized for advanced analytics in big data environments. IBM Db2 Big SQL combines open source big data technologies with powerful Db2 SQL processing to drive efficient, interactive, and batch analytics use cases.",
+            "cloudPak": "cp4d",
+            "productId": "5737E74",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.5.x?topic=services-db2-big-sql",
+                "info": "https://www.ibm.com/products/db2/big-sql",
+                "trial": "https://www.ibm.com/account/reg/signup?formid=urx-19176",
+                "pricing": "https://www.ibm.com/products/db2/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737E74"
+            }
+        },
+        {
+            "productName": "IBM Decision Optimization",
+            "productAbreviation": "IDO",
+            "productDescription": "The IBM Decision Optimization service provides CPLEX optimization engines that enable your organization to make optimal business decisions by evaluating millions of possibilities to find the most appropriate prescriptive solutions.",
+            "cloudPak": "cp4d",
+            "productId": "5737H76",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.5.x?topic=services-decision-optimization",
+                "info": "https://www.ibm.com/cloud/decision-optimization-for-watson-studio",
+                "trial": "https://dataplatform.cloud.ibm.com/registration/stepone?context=cpdaas&apps=all",
+                "pricing": "https://www.ibm.com/products/cloud-pak-for-data/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737H76"
+            }
+        },
+        {
+            "productName": "CPLEX Optimization Studio",
+            "productAbreviation": "CPLEX",
+            "productDescription": "Build and solve complex optimization models to identify the best possible actions.",
+            "cloudPak": "not_cloud_pak",
+            "productId": "5725A06",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/icos",
+                "info": "https://www.ibm.com/products/ilog-cplex-optimization-studio",
+                "trial": "https://www.ibm.com/account/reg/signup?formid=urx-20028",
+                "pricing": "https://www.ibm.com/products/ilog-cplex-optimization-studio/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5725A06"
+            }
+        },
+        {
+            "productName": "IBM Execution Engine for Apache Hadoop",
+            "productAbreviation": "EEAH",
+            "productDescription": "The Execution Engine for Apache Hadoop services integrates the Watson Studio service with your remote Apache Hadoop cluster.",
+            "cloudPak": "cp4d",
+            "productId": "5737H76",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.5.x?topic=services-execution-engine-apache-hadoop",
+                "info": "https://www.ibm.com/products/cloud-pak-for-data", 
+                "trial": "https://dataplatform.cloud.ibm.com/registration/stepone?context=cpdaas&apps=all",
+                "pricing": "https://www.ibm.com/products/cloud-pak-for-data/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737H76"
+            }
+        },
+        {
+            "productName": "IBM Cognos Dashboards",
+            "productAbreviation": "ICGD",
+            "productDescription": "With the Cognos Dashboards service, you can use sophisticated visualizations in an analytics project to identify patterns in your data so you can make timely and effective decisions. No coding needed.",
+            "cloudPak": "cp4d",
+            "productId": "5737H76",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.5.x?topic=services-cognos-dashboards",
+                "info": "https://www.ibm.com/products/cloud-pak-for-data", 
+                "trial": "https://dataplatform.cloud.ibm.com/registration/stepone?context=cpdaas&apps=all",
+                "pricing": "https://www.ibm.com/products/cloud-pak-for-data/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737H76"
+            }
+        },
+        {
+            "productName": "IBM Product Master",
+            "productAbreviation": "IPMSTR",
+            "productDescription": "IBM Product Master provides trusted Product Information Management (PIM) and collaborative Master Data Management (MDM) capabilities. ",
+            "cloudPak": "cp4d",
+            "productId": "5725E59",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.5.x?topic=services-product-master",
+                "info": "https://www.ibm.com/products/product-master", 
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=ibm%20product%20master"
+            }
+        },
+        {
+            "productName": "IBM Watson Knowledge Catalog",
+            "productAbreviation": "WKG",
+            "productDescription": "Watson Knowledge Catalog provides a secure enterprise catalog management platform that is supported by a data governance framework. A catalog connects people to the data and knowledge that they need",
+            "cloudPak": "cp4d",
+            "productId": "5737H76",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.5.x?topic=services-watson-knowledge-catalog",
+                "info": "https://www.ibm.com/cloud/watson-knowledge-catalog",
+                "trial": "https://dataplatform.cloud.ibm.com/registration/stepone?apps=data_catalog&context=cpdaas&uucid=0040c3bca700ed98",  
+                "pricing": "https://www.ibm.com/cloud/watson-knowledge-catalog/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737H76"
+            }
+        },
+        {
+            "productName": "IBM Data Virtualization",
+            "productAbreviation": "DVIRT",
+            "productDescription": "Data Virtualization connects multiple data sources across locations and turns all of this data into one logical data view. This virtual data view makes the job of getting value out of your data easy.",
+            "cloudPak": "cp4d",
+            "productId": "5737H76",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.5.x?topic=services-data-virtualization",
+                "info": "https://www.ibm.com/products/cloud-pak-for-data", 
+                "trial": "https://dataplatform.cloud.ibm.com/registration/stepone?context=cpdaas&apps=all",
+                "pricing": "https://www.ibm.com/products/cloud-pak-for-data/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737H76"
+            }
+        },
+        {
+            "productName": "IBM Db2",
+            "productAbreviation": "DB2",
+            "productDescription": "IBM Db2 provides advanced data management and analytics capabilities for transactional workloads. Db2 has no processor, memory, or database size limits, which makes it ideal for any size workload.",
+            "cloudPak": "cp4d",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.5.x?topic=services-db2",
+                "info": "https://www.ibm.com/products/db2",
+                "trial": "https://cloud.ibm.com/registration?target=/catalog/services/db2&cm_mmca1=000030YW&cm_mmca2=DAFWW&S_PKG=ov54907&uucid=0040c3e1be009340&cm_sp=cloud-product---onpagenav-ibmcloudplatform_db2-on-cloud",
+                "pricing": "https://www.ibm.com/products/db2/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=db2"
+            }
+        },
+        {
+            "productName": "IBM Db2 for z/OS Data Gate",
+            "productAbreviation": "DB2DG",
+            "productDescription": "The IBM Db2 for z/OS Data Gate service extracts, loads, and synchronizes your mission-critical data from Db2 for z/OS to Cloud Pak for Data for quick access by your new, high volume, read-only transactional and analytic applications.",
+            "cloudPak": "cp4d",
+            "productId": "5737H76",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.5.x?topic=services-db2-data-gate",
+                "info": "https://www.ibm.com/products/cloud-pak-for-data", 
+                "trial": "https://dataplatform.cloud.ibm.com/registration/stepone?context=cpdaas&apps=all",
+                "pricing": "https://www.ibm.com/products/cloud-pak-for-data/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737H76"
+            }
+        },
+        {
+            "productName": "IBM Db2 Data Management Console",
+            "productAbreviation": "DB2DMC",
+            "productDescription": "IBM Db2 Data Management Console is a tool that you can use to manage and monitor your integrated IBM Db2 databases from a single user interface.",
+            "cloudPak": "cp4d",
+            "productId": "5737M08",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.5.x?topic=services-db2-data-management-console",
+                "info": "https://www.ibm.com/products/db2-data-management-console",
+                "trial": "https://www.ibm.com/account/reg/signup?formid=urx-49015",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737M08"
+            }
+        },
+        {
+            "productName": "IBM Db2 Event Store",
+            "productAbreviation": "DB2ES",
+            "productDescription": "IBM Db2 Event Store is a cloud-native database system that is designed to handle massive amounts of structured data that is stored in Apache Parquet format.",
+            "cloudPak": "cp4d",
+            "productId": "5737H76",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.5.x?topic=services-db2-event-store",
+                "info": "https://www.ibm.com/products/cloud-pak-for-data", 
+                "trial": "https://dataplatform.cloud.ibm.com/registration/stepone?context=cpdaas&apps=all",
+                "pricing": "https://www.ibm.com/products/cloud-pak-for-data/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737H76"
+            }
+        },
+        {
+            "productName": "IBM Db2 Warehouse",
+            "productAbreviation": "DB2WH",
+            "productDescription": "IBM Db2 Warehouse is an analytics data warehouse that features in-memory data processing and in-database analytics. It is client-managed and optimized for fast and flexible deployment, with automated scaling that supports analytics workloads",
+            "cloudPak": "cp4d",
+            "productId": "5725Z65",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.5.x?topic=services-db2-warehouse",
+                "info": "https://www.ibm.com/products/db2/warehouse",
+                "trial": "https://cloud.ibm.com/registration/premium1?target=/catalog/services/db2-warehouse&cm_mmca1=000030YW&cm_mmca2=DAFWW&S_PKG=ov34433&uucid=0040c3e10b80999b&cm_sp=cloud-product---onpagenav-ibmcloudplatform_db2-warehouse-on-cloud---bm_nsl_customize_leadspace",
+                "pricing": "https://www.ibm.com/products/db2/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5725Z65"
+            }
+        },
+        {
+            "productName": "EDB Postgres",
+            "productAbreviation": "EDBPSQL",
+            "productDescription": "You can use the EDB Postgres services, EDB Postgres Standard and EDB Postgres Enterprise, to provision and manage PostgreSQL databases in Cloud Pak for Data.",
+            "cloudPak": "cp4d",
+            "productId": "5737L84",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.5.x?topic=services-edb-postgres",
+                "info": "https://www.ibm.com/products/postgres-enterprise",
+                "pricing": "https://www.ibm.com/products/postgres-enterprise/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737L84"
+            }
+        },
+        {
+            "productName": "Informix",
+            "productAbreviation": "IFX",
+            "productDescription": "Informix provides a high-performance engine that integrates TimeSeries, Spatial, NoSQL, and SQL data together with easy access via MQTT, REST, and MongoDB APIs.",
+            "cloudPak": "cp4d",
+            "productId": "5737N11",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.5.x?topic=services-informix",
+                "info": "https://www.ibm.com/products/informix",
+                "trial": "https://www.ibm.com/account/reg/signup?formid=urx-32091",
+                "pricing": "https://www.ibm.com/products/informix/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=informix"
+
+            }
+        },
+        {
+            "productName": "MongoDB Enterprise Advanced",
+            "productAbreviation": "MNGDB",
+            "productDescription": "MongoDB Enterprise Advanced is a cross-platform, document-oriented, NoSQL database.",
+            "cloudPak": "cp4d",
+            "productId": "5737H42",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.5.x?topic=services-mongodb",
+                "info": "https://www.ibm.com/products/cloud-pak-for-data", 
+                "trial": "https://dataplatform.cloud.ibm.com/registration/stepone?context=cpdaas&apps=all",
+                "pricing": "https://www.ibm.com/products/cloud-pak-for-data/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737H42"
+            }
+        },
+        {
+            "productName": "RStudio Server with R",
+            "productAbreviation": "RSTUDIO",
+            "productDescription": "RStudio provides an integrated development environment (IDE) for working with R in Watson Studio to create R Shiny applications.",
+            "cloudPak": "cp4d",
+            "productId": "5737H76",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.5.x?topic=services-rstudio-server-r-36",
+                "info": "https://www.ibm.com/products/cloud-pak-for-data", 
+                "trial": "https://dataplatform.cloud.ibm.com/registration/stepone?context=cpdaas&apps=all",
+                "pricing": "https://www.ibm.com/products/cloud-pak-for-data/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737H42"
+            }
+        },
+        {
+            "productName": "IBM Financial Services Workbench",
+            "productAbreviation": "FSW",
+            "productDescription": "BM Financial Services Workbench helps banks to transform digital business opportunities into cloud-native solutions. To this end, the offering has a strong emphasis on enabling people in their different roles to collaboratively design, implement and test microservices.",
+            "cloudPak": "cp4d",
+            "productId": "5737H76",
+            "links": {
+                "docs": "https://fswb-documentation.knowis.net/2.9/index.html",
+                "info": "https://www.ibm.com/products/cloud-pak-for-data", 
+                "trial": "https://dataplatform.cloud.ibm.com/registration/stepone?context=cpdaas&apps=all",
+                "pricing": "https://www.ibm.com/products/cloud-pak-for-data/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737H42"
+            }
+        },
+        {
+            "productName": "IBM OpenPages",
+            "productAbreviation": "IOP",
+            "productDescription": "You can use OpenPages to manage risk and regulatory challenges across your organization. OpenPages is an integrated governance, risk, and compliance (GRC) suite.",
+            "cloudPak": "cp4d",
+            "productId": "5737N71",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data/4.5.x?topic=services-openpages",
+                "info": "https://www.ibm.com/products/cloud-pak-for-data", 
+                "trial": "https://dataplatform.cloud.ibm.com/registration/stepone?context=cpdaas&apps=all",
+                "pricing": "https://www.ibm.com/products/cloud-pak-for-data/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737N71"
+            }
+        },
+        {
+            "productName": "IBM Cognos Controller",
+            "productAbreviation": "ICGC",
+            "productDescription": "With IBM Cognos Controller, finance teams can automate and accelerate the close, consolidation and reporting process with minimal IT support.",
+            "cloudPak": "not_cloud_pak",
+            "productId": "5724W24",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cognos-controller",
+                "ifno": "https://www.ibm.com/products/cognos-controller",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5724W24"
+            }
+        },
+        {
+            "productName": "IBM Safer Payments",
+            "productAbreviation": "ISPAY",
+            "productDescription": "IBM Safer Payments is a real-time payments fraud prevention software for any kind of cashless payment system through any channel in the financial services industry",
+            "cloudPak": "cp4d",
+            "productId": "5725Z82",
+            "links": {
+                "docs": "https://www.ibm.com/cloud/payment-fraud-prevention",
+                "info": "https://www.ibm.com/products/cloud-pak-for-data", 
+                "trial": "https://dataplatform.cloud.ibm.com/registration/stepone?context=cpdaas&apps=all",
+                "pricing": "https://www.ibm.com/products/cloud-pak-for-data/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5725Z82"
+            }
+        },
+        {
+            "productName": "IBM Financial Crimes Insight",
+            "productAbreviation": "FCI",
+            "productDescription": "IBM Financial Crimes Insight helps organizations take an AI-infused approach to a variety of risk and compliance use cases.",
+            "cloudPak": "cp4d",
+            "productId": "5737E41",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/fci",
+                "info": "https://www.ibm.com/products/financial-crimes-insight",
+                "trial": "https://dataplatform.cloud.ibm.com/registration/stepone?context=cpdaas&apps=all",
+                "pricing": "https://www.ibm.com/products/cloud-pak-for-data/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737E41"
+            }
+        },
+        {
+            "productName": "IBM Cloud Pak for Data",
+            "productAbreviation": "CP4D",
+            "productDescription": "IBM\u00ae Cloud Pak for Data is a cloud-native solution that enables you to put your data to work quickly and efficiently.",
+            "cloudPak": "cp4d",
+            "productId": "5737H76",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cloud-paks/cp-data",
+                "info": "https://www.ibm.com/products/cloud-pak-for-data", 
+                "trial": "https://dataplatform.cloud.ibm.com/registration/stepone?context=cpdaas&apps=all",
+                "pricing": "https://www.ibm.com/products/cloud-pak-for-data/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737H76"
+            }
+        },
+        {
+            "productName": "IBM Cloud Pak for Data System",
+            "productAbreviation": "CP4DS",
+            "productDescription": "Cloud Pak for Data System is an all-in-one cloud-native Data and AI platform in a box. The hardware components that are optimized for data analytics can be installed in a customer-provided rack or be delivered in an integrated rack.",
+            "cloudPak": "cp4d",
+            "productId": "5737K66",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/cloud-paks/cloudpak-data-system",
+                "info": "https://www.ibm.com/products/cloud-pak-for-data/system",
+                "pricing": "https://www.ibm.com/products/cloud-pak-for-data/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737K66"
+            }
+        },
+        {
+            "productName": "InfoSphere Virtual Data Pipeline",
+            "productAbreviation": "ISVDP",
+            "productDescription": "Provision and refresh virtual test data environments in just minutes",
+            "cloudPak": "not_cloud_pak",
+            "productId": "5737J45",
+            "links": {
+                "docs": "https://www.ibm.com/products/ibm-infosphere-virtual-data-pipeline",
+                "info": "https://www.ibm.com/products/ibm-infosphere-virtual-data-pipeline",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737J45"
+
+            }
+        },
+        {
+            "productName": "Cloudera Data Platform",
+            "productAbreviation": "CDP",
+            "productDescription": "Cloudera Data Platform (CDP) manages and secures the data lifecycle across all major public clouds and the private cloud\u2014seamlessly connecting on-premises environments to public clouds for a hybrid cloud experience",
+            "cloudPak": "not_cloud_pak",
+            "productId": "5737N18",
+            "links": {
+                "docs": "https://www.cloudera.com/products/cloudera-data-platform.html",
+                "info": "https://www.ibm.com/products/cdp-data-center-with-ibm",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=Cloudera%20Data%20Platform"
+            }
+        },
+        {
+            "productName": "InfoSphere Master Data Management",
+            "productAbreviation": "MDM",
+            "productDescription": "IBM\u00ae InfoSphere\u00ae Master Data Management provides comprehensive matching capabilities for reconciling data differences, giving you the most up-to-date and accurate view of data.",
+            "cloudPak": "cp4d",
+            "productId": "5725E59",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/imdm",
+                "info": "https://www.ibm.com/products/ibm-infosphere-master-data-management",
+                "pricing": "https://www.ibm.com/products/ibm-infosphere-master-data-management/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5725E59"
+            }
+        }
+    ]
+}

@@ -8,16 +8,24 @@
             "productDescription": "IBM Spectrum Scale is a cluster file system that provides concurrent access to a single file system or set of file systems from multiple nodes",
             "cloudPak": "not_cloud_pak",
             "links": {
-                "docs": "https://www.ibm.com/docs/en/spectrum-scale"
+                "docs": "https://www.ibm.com/docs/en/spectrum-scale",
+                "info": "https://www.ibm.com/products/spectrum-scale",
+                "trial": "https://www.ibm.com/account/reg/signup?formid=urx-41728",
+                "pricing": "https://www.ibm.com/products/spectrum-scale/pricing",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=spectrum%20scale"
             }
         },
         {
-            "productName": "IBM Spectrum Fusion HCI",
-            "productAbreviation": "SPECF",
-            "productDescription": "Container-native hybrid cloud data platform for Kubernetes applications on Red Hat\u00ae OpenShift\u00ae Container Platform. It features an appliance form-factor, hyper-converged infrastructure along with integrated software-defined storage to meet the storage requirements of modern, stateful Kubernetes applications.",
+            "productName": "IBM Spectrum Fusion ",
+            "productAbreviation": "FUSION",
+            "productDescription": "Container-native storage for Kubernetes applications on Red Hat\u00ae OpenShift\u00ae Container Platform.",
             "cloudPak": "not_cloud_pak",
+            "productId": "5900AOY",
             "links": {
-                "docs": "https://www.ibm.com/docs/en/spectrum-fusion"
+                "docs": "https://www.ibm.com/docs/en/spectrum-fusion",
+                "info": "https://www.ibm.com/products/spectrum-fusion",
+                "trial": "https://www.ibm.com/account/reg/signup?formid=urx-51524",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5900AOY"
             }
         },
         {
@@ -25,8 +33,12 @@
             "productAbreviation": "SPP",
             "productDescription": "Unified data protection for hybrid cloud environments",
             "cloudPak": "not_cloud_pak",
+            "productId": "5737F11",
             "links": {
-                "docs": "https://www.ibm.com/docs/en/spp"
+                "docs": "https://www.ibm.com/docs/en/spp",
+                "info": "https://www.ibm.com/products/ibm-spectrum-protect-plus",
+                "trial": "https://www.ibm.com/account/reg/signup?formid=urx-20152",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5737F11"
             }
         },
         {
@@ -35,7 +47,8 @@
             "productDescription": "Software-defined storage for containers. Engineered as the data and storage services platform for Red Hat OpenShift, Red Hat OpenShift Data Foundation helps teams develop and deploy applications quickly and efficiently across clouds.",
             "cloudPak": "not_cloud_pak",
             "links": {
-                "docs": "https://www.redhat.com/en/technologies/cloud-computing/openshift-data-foundation"
+                "docs": "https://www.redhat.com/en/technologies/cloud-computing/openshift-data-foundation",
+                "info": "https://www.redhat.com/en/technologies/cloud-computing/openshift-data-foundation"
             }
         },
         {
@@ -44,7 +57,8 @@
             "productDescription": "Highly flexible storage solution that enables rapid deployment of block storage services for new and traditional workloads, on-premises, off-premises and in a combination of both. Designed to help enable cloud environments, it is based on the proven technology",
             "cloudPak": "not_cloud_pak",
             "links": {
-                "docs": "https://www.ibm.com/docs/en/spectrumvirtualsoftw"
+                "docs": "https://www.ibm.com/docs/en/spectrumvirtualsoftw",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=spectrum%20virtualize"
             }
         },
         {
@@ -53,16 +67,22 @@
             "productDescription": "Discover the benefits and features of IBM Spectrum\u00ae LSF Suites, an integrated solution that redefines cluster virtualization and workload management.",
             "cloudPak": "not_cloud_pak",
             "links": {
-                "docs": "https://www.ibm.com/docs/en/spectrum-lsf"
+                "docs": "https://www.ibm.com/docs/en/spectrum-lsf",
+                "info": "https://www.ibm.com/products/hpc-workload-management",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=Spectrum%20LSF"
             }
         },
         {
             "productName": "IBM Spectrum Symphony",
             "productAbreviation": "SSYMPH",
             "productDescription": "Deliver enterprise-class compute and data-intensive application management on a shared grid with IBM Spectrum Symphony.",
-            "cloudPak": "not_cloud_pak",
+            "cloudPak": "not_cloud_pak", 
+            "productId": "5725G86",
             "links": {
-                "docs": "https://www.ibm.com/docs/en/spectrum-symphony"
+                "docs": "https://www.ibm.com/docs/en/spectrum-symphony",
+                "info": "https://www.ibm.com/products/analytics-workload-management",
+                "trial": "https://cloud.ibm.com/catalog/content/terraform-1627942334-78300480-b376-4185-9812-b7ae00d82765-global",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5725G86"
             }
         }
     ]
