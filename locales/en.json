@@ -12,9 +12,6 @@
   "about": {
     "title": "About IBM SW Map",
     "primaryText": "Repository with the IBM software displayed in a periodic table for easier visualisation of the IBM portfolio. All the data is currently sourced by the community effort and therefore there might be discrepancies. In case you find one, please create the issue in the underlying github repository so it can be corrected.",
-    "salesPlays": "The Sales Plays information page",
-    "technologyDecisionPoints": "The Technology Decision Points information page",
-    "productPages": "IBM Product Pages"
   },
   "element": {
     "cloudPak": "Cloud Pak",
