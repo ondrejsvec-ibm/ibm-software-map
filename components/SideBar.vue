@@ -2,6 +2,10 @@
   <n-config-provider :theme-overrides="themeOverrides">
     <section class="sidebar">
       <div class="sidebar" role="tablist">
+
+        <div class="sidebar-header">
+          <span class="disclaimer">{{ $t("interface.disclaimer") }}</span>
+        </div>
         <div v-if="showFilters === 'true'" class="accordion">
           <div class="form-group">
             <n-input

@@ -4,7 +4,7 @@
     "cloudPakFilters": "Cloud Pak Filters",
     "loading": "Loading Product Table",
     "otherFiltersFilters": "Other Filters",
-    "disclaimer": "Disclaimer: Community maintained data, some data might be incorrect.",
+    "disclaimer": "Disclaimer: Community maintained data :) If you see something wrong, lets create the issue and work on it ;) Work in Progress. ",
     "language": {
       "en": "English"
     }
@@ -19,11 +19,16 @@
   "element": {
     "cloudPak": "Cloud Pak",
     "productName": "Product Name",
-    "productDescription": "Product Description",
+    "productDescription": "Short Description",
     "productAbreviation": "Product Abbreviation",
+    "productId": "Product Id",
     "links": {
       "name": "Links",
-      "docs": "Link to Documentation"
+      "docs": "Link to Documentation",
+      "info": "Link to Product Information",
+      "pricing": "Link to Pricing",
+      "trial": "Link to get Trial",
+      "lifecycle": "Link to Lifecyle Info"
     }
   },
   "cloudPakNames": {
