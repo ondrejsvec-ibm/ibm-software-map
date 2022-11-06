@@ -1,6 +1,6 @@
 # IBM Software Map
 
-Repository with the IBM software displayed in a periodic table for easier visualisation of the portfolio
+Repository with the IBM software displayed in a periodic table for easier visualisation of many of the products offered by IBM.
 
 ## Contributing Content
 I am more than happy if someone can help in advancing this project :hugs:. I've split this section on visuals and product data, but also here are guidelines into working with the repository:
