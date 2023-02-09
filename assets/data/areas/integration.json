@@ -3,6 +3,19 @@
     "area": "automation",
     "products": [
         {
+            "productName": "IBM WebSphere Automation",
+            "productAbreviation": "WSA",
+            "productDescription": "IBM WebSphere Automation for Cloud Pak for Watson AIOps uses automation capabilities to extend the value of existing WebSphere Application Server environments.",
+            "cloudPak": "not_cloud_pak",
+            "productId": "5900AH1",
+            "links": {
+                "docs": "https://www.ibm.com/docs/en/ws-automation",
+                "info": "https://www.ibm.com/products/websphere-automation",
+                "trial": "https://www.ibm.com/account/reg/signup?formid=urx-51258",
+                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5900AH1"
+            }
+        },
+        {
             "productName": "IBM App Connect Enterprise",
             "productAbreviation": "ACE",
             "productDescription": "A flexible environment to parse, transform, enrich, route, and process business messages and data. A very wide range of different protocols and message formats are supported.",

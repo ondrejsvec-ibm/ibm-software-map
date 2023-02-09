@@ -3,19 +3,6 @@
     "area": "automation",
     "products": [
         {
-            "productName": "IBM WebSphere Automation",
-            "productAbreviation": "WSA",
-            "productDescription": "IBM WebSphere Automation for Cloud Pak for Watson AIOps uses automation capabilities to extend the value of existing WebSphere Application Server environments.",
-            "cloudPak": "cp4aiops",
-            "productId": "5900AH1",
-            "links": {
-                "docs": "https://www.ibm.com/docs/en/ws-automation",
-                "info": "https://www.ibm.com/products/websphere-automation",
-                "trial": "https://www.ibm.com/account/reg/signup?formid=urx-51258",
-                "lifecycle": "https://www.ibm.com/support/pages/lifecycle/search?q=5900AH1"
-            }
-        },
-        {
             "productName": "Instana",
             "productAbreviation": "INSTANA",
             "productDescription": "Instana is the first and only fully automated Application Performance Management (APM) solution designed specifically for the challenges of managing microservice and cloud-native applications.",
